@@ -1,0 +1,11 @@
+### model
+model_name_or_path: /root/autodl-tmp/.autodl/saves/qwen3-vl-sft-merged 
+adapter_name_or_path: /root/autodl-tmp/.autodl/saves/qwen3-vl-2b-parking-grounding-16r8b1g1-4lr1e_freezemmp_kto_ftx0_2/checkpoint-75/ 
+template: qwen3_vl_nothink
+trust_remote_code: true
+
+### export
+export_dir: /root/autodl-tmp/.autodl/saves/qwen3-vl-dpo-merged 
+export_size: 5
+export_device: cpu  # choices: [cpu, auto]
+export_legacy_format: false

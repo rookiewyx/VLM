@@ -1,0 +1,1029 @@
+nohup: ignoring input
+Processing 1/500: /data/zhangjingyu/temp/test_images/test_0000.jpg
+[{"text_content": "168", "bbox": "<bbox>826 819 953 886</bbox>"}]
+Processing 2/500: /data/zhangjingyu/temp/test_images/test_0001.jpg
+[{"text_content": "H129", "bbox": "<bbox": 378 623 526 685</bbox>"}, {"text_content": "H130", "bbox": "<bbox": 648 666 862 742</bbox>"}]
+Processing 3/500: /data/zhangjingyu/temp/test_images/test_0002.jpg
+[]
+Processing 4/500: /data/zhangjingyu/temp/test_images/test_0003.jpg
+[{"text_content": "034A", "bbox": "<bbox>416 740 683 998</bbox>"}]
+Processing 5/500: /data/zhangjingyu/temp/test_images/test_0004.jpg
+[{"text_content": "2190", "bbox": "<bbox>100 590 172 643</bbox>"}, {"text_content": "2191", "bbox": "<bbox>508 745 679 853</bbox>"}]
+Processing 6/500: /data/zhangjingyu/temp/test_images/test_0005.jpg
+[{"text_content": "160", "bbox": "<bbox>610 628 808 761</bbox>"}]
+Processing 7/500: /data/zhangjingyu/temp/test_images/test_0006.jpg
+[]
+Processing 8/500: /data/zhangjingyu/temp/test_images/test_0007.jpg
+[{"text_content": "-2892", "bbox": "<bbox>152 737 433 893</bbox>"}, {"text_content": "-2893", "bbox": "<bbox>590 604 710 675</bbox>"}]
+Processing 9/500: /data/zhangjingyu/temp/test_images/test_0008.jpg
+[]
+Processing 10/500: /data/zhangjingyu/temp/test_images/test_0009.jpg
+[{"text_content": "20239", "bbox": "<bbox>376 588 743 666</bbox>"}]
+Processing 11/500: /data/zhangjingyu/temp/test_images/test_0010.jpg
+[{"text_content": "0688", "bbox": "<bbox>470 290 499 334</bbox>"}, {"text_content": "633", "bbox": "<bbox>562 850 764 990</bbox>"}]
+Processing 12/500: /data/zhangjingyu/temp/test_images/test_0011.jpg
+[{"text_content": "136", "bbox": "<bbox>408 663 515 770</bbox>"}]
+Processing 13/500: /data/zhangjingyu/temp/test_images/test_0012.jpg
+[]
+Processing 14/500: /data/zhangjingyu/temp/test_images/test_0013.jpg
+[{"text_content": "-1582", "bbox": "<bbox>426 519 726 720</bbox>"}, {"text_content": "-1583", "bbox": "<bbox>786 393 938 488</bbox>"}]
+Processing 15/500: /data/zhangjingyu/temp/test_images/test_0014.jpg
+[{"text_content": "27101", "bbox": "<bbox>206 730 461 868</bbox>"}]
+Processing 16/500: /data/zhangjingyu/temp/test_images/test_0015.jpg
+[{"text_content": "-2172", "bbox": "<bbox>452 722 602 826</bbox>"}, {"text_content": "-2173", "bbox": "<bbox>638 648 730 710</bbox>"}, {"text_content": "3112", "bbox": "<bbox>535 63 580 151</bbox>"}]
+Processing 17/500: /data/zhangjingyu/temp/test_images/test_0016.jpg
+[{"text_content": "冀A0D2C", "bbox": "<bbox>49 332 71 371</bbox>"}, {"text_content": "冀AKK7GT", "bbox": "<bbox>203 300 234 355</bbox>"}, {"text_content": "冀AxxHG8", "bbox": "<bbox>386 251 433 309</bbox>"}, {"text_content": "1G120", "bbox": "<bbox>388 729 508 789</bbox>"}]
+Processing 18/500: /data/zhangjingyu/temp/test_images/test_0017.jpg
+[{"text_content": "2-084", "bbox": "<bbox>473 726 663 838</bbox>"}, {"text_content": "2-085", "bbox": "<bbox>771 640 902 706</bbox>"}, {"text_content": "2-085", "bbox": "<bbox>832 18 876 59</bbox>"}, {"text_content": "3", "bbox": "<bbox>145 909 215 993</bbox>"}]
+Processing 19/500: /data/zhangjingyu/temp/test_images/test_0018.jpg
+[]
+Processing 20/500: /data/zhangjingyu/temp/test_images/test_0019.jpg
+[{"text_content": "-2387", "bbox": "<bbox": "<bbox>473 614 599 678</bbox>"}, {"text_content": "-2388", "bbox": "<bbox>662 700 876 826</bbox>"}]
+Processing 21/500: /data/zhangjingyu/temp/test_images/test_0020.jpg
+[{"text_content": "5-08", "bbox": "<bbox>446 596 643 741</bbox>"}, {"text_content": "5", "bbox": "<bbox>508 26 547 180</bbox>"}]
+Processing 22/500: /data/zhangjingyu/temp/test_images/test_0021.jpg
+[{"text_content": "0-1217", "bbox": "<bbox>288 628 656 830</bbox>"}]
+Processing 23/500: /data/zhangjingyu/temp/test_images/test_0022.jpg
+[]
+Processing 24/500: /data/zhangjingyu/temp/test_images/test_0023.jpg
+[{"text_content": "0-2560", "bbox": "<bbox>434 698 612 778</bbox>"}]
+Processing 25/500: /data/zhangjingyu/temp/test_images/test_0024.jpg
+[{"text_content": "2135", "bbox": "<bbox>190 909 321 999</bbox>"}, {"text_content": "2136", "bbox": "<bbox>426 784 511 849</bbox>"}]
+Processing 26/500: /data/zhangjingyu/temp/test_images/test_0025.jpg
+[{"text_content": "南业-26", "bbox": "<bbox>191 632 500 806</bbox>"}]
+Processing 27/500: /data/zhangjingyu/temp/test_images/test_0026.jpg
+[{"text_content": "24076", "bbox": "<bbox>273 584 648 659</bbox>"}]
+Processing 28/500: /data/zhangjingyu/temp/test_images/test_0027.jpg
+[{"text_content": "0-2", "bbox": "<bbox>883 865 999 928</bbox>"}]
+Processing 29/500: /data/zhangjingyu/temp/test_images/test_0028.jpg
+[]
+Processing 30/500: /data/zhangjingyu/temp/test_images/test_0029.jpg
+[{"text_content": "B029", "bbox": "<bbox>172 603 273 653</bbox>"}, {"text_content": "B028", "bbox": "<bbox>442 531 513 569</bbox>"}]
+Processing 31/500: /data/zhangjingyu/temp/test_images/test_0030.jpg
+[]
+Processing 32/500: /data/zhangjingyu/temp/test_images/test_0031.jpg
+[{"text_content": "2-92", "bbox": "<bbox>282 731 423 848</bbox>"}]
+Processing 33/500: /data/zhangjingyu/temp/test_images/test_0032.jpg
+[]
+Processing 34/500: /data/zhangjingyu/temp/test_images/test_0033.jpg
+[{"text_content": "A064", "bbox": "<bbox>341 693 529 875</bbox>"}, {"text_content": "3", "bbox": "<bbox>545 216 559 249</bbox>"}, {"text_content": "A", "bbox": "<bbox>734 249 751 282</bbox>"}]
+Processing 35/500: /data/zhangjingyu/temp/test_images/test_0034.jpg
+[{"text_content": "B052", "bbox": "<bbox>368 726 569 859</bbox>"}]
+Processing 36/500: /data/zhangjingyu/temp/test_images/test_0035.jpg
+[{"text_content": "D023", "bbox": "<bbox>728 673 995 828</bbox>"}, {"text_content": "D", "bbox": "<bbox>614 4 651 84</bbox>"}]
+Processing 37/500: /data/zhangjingyu/temp/test_images/test_0036.jpg
+[{"text_content": "355", "bbox": "<bbox>694 654 782 724</bbox>"}]
+Processing 38/500: /data/zhangjingyu/temp/test_images/test_0037.jpg
+[{"text_content": "1906", "bbox": "<bbox>0 370 100 466</bbox>"}, {"text_content": "1907", "bbox": "<bbox>131 552 382 763</bbox>"}]
+Processing 39/500: /data/zhangjingyu/temp/test_images/test_0038.jpg
+[{"text_content": "0-1051", "bbox": "<bbox>446 680 618 722</bbox>"}, {"text_content": "0-1052", "bbox": "<bbox>820 682 996 723</bbox>"}]
+Processing 40/500: /data/zhangjingyu/temp/test_images/test_0039.jpg
+[{"text_content": "1946", "bbox": "<bbox>413 601 641 766</bbox>"}]
+Processing 41/500: /data/zhangjingyu/temp/test_images/test_0040.jpg
+[]
+Processing 42/500: /data/zhangjingyu/temp/test_images/test_0041.jpg
+[{"text_content": "161", "bbox": "<bbox>300 690 485 838</bbox>"}]
+Processing 43/500: /data/zhangjingyu/temp/test_images/test_0042.jpg
+[]
+Processing 44/500: /data/zhangjingyu/temp/test_images/test_0043.jpg
+[{"text_content": "300", "bbox": "<bbox>338 562 499 657</bbox>"}, {"text_content": "0300", "bbox": "<bbox>262 0 306 34</bbox>"}]
+Processing 45/500: /data/zhangjingyu/temp/test_images/test_0044.jpg
+[{"text_content": "0-230", "bbox": "<bbox>478 900 593 998</bbox>"}, {"text_content": "-2A 0-230", "bbox": "<bbox>176 287 252 382</bbox>"}]
+Processing 46/500: /data/zhangjingyu/temp/test_images/test_0045.jpg
+[{"text_content": "G194", "bbox": "<bbox>472 604 675 825</bbox>"}, {"text_content": "G195", "bbox": "<bbox>619 462 719 631</bbox>"}]
+Processing 47/500: /data/zhangjingyu/temp/test_images/test_0046.jpg
+[{"text_content": "翼A2D*22", "bbox": "<bbox>858 46 999 192</bbox>"}, {"text_content": "1129", "bbox": "<bbox>319 793 387 864</bbox>"}]
+Processing 48/500: /data/zhangjingyu/temp/test_images/test_0047.jpg
+[{"text_content": "0-1073", "bbox": "<bbox>316 675 440 760</bbox>"}, {"text_content": "0-1074", "bbox": "<bbox>579 810 785 956</bbox>"}, {"text_content": "P-1072", "bbox": "<bbox>134 582 207 638</bbox>"}]
+Processing 49/500: /data/zhangjingyu/temp/test_images/test_0048.jpg
+[{"text_content": "H191", "bbox": "<bbox>332 568 708 742</bbox>"}, {"text_content": "B3", "bbox": "<bbox>704 1 729 39</bbox>"}]
+Processing 50/500: /data/zhangjingyu/temp/test_images/test_0049.jpg
+[]
+Processing 51/500: /data/zhangjingyu/temp/test_images/test_0050.jpg
+[{"text_content": "0-2243", "bbox": "<bbox>382 781 539 888</bbox>"}, {"text_content": "244", "bbox": "<bbox>772 626 869 684</bbox>"}]
+Processing 52/500: /data/zhangjingyu/temp/test_images/test_0051.jpg
+[{"text_content": "2659", "bbox": "<bbox>482 555 660 623</bbox>"}]
+Processing 53/500: /data/zhangjingyu/temp/test_images/test_0052.jpg
+[{"text_content": "B-088", "bbox": "<bbox>118 673 208 796</bbox>"}, {"text_content": "26", "bbox": "<bbox>558 0 678 213</bbox>"}]
+Processing 54/500: /data/zhangjingyu/temp/test_images/test_0053.jpg
+[]
+Processing 55/500: /data/zhangjingyu/temp/test_images/test_0054.jpg
+[{"text_content": "006", "bbox": "<bbox>228 562 292 634</bbox>"}]
+Processing 56/500: /data/zhangjingyu/temp/test_images/test_0055.jpg
+[{"text_content": "13068", "bbox": "<bbox>282 500 553 643</bbox>"}]
+Processing 57/500: /data/zhangjingyu/temp/test_images/test_0056.jpg
+[{"text_content": "006", "bbox": "<bbox>422 590 554 636</bbox>"}]
+Processing 58/500: /data/zhangjingyu/temp/test_images/test_0057.jpg
+[{"text_content": "-2209", "bbox": "<bbox>428 598 541 661</bbox>"}, {"text_content": "-2210", "bbox": "<bbox>620 676 822 792</bbox>"}]
+Processing 59/500: /data/zhangjingyu/temp/test_images/test_0058.jpg
+[{"text_content": "K170", "bbox": "<bbox>419 783 576 846</bbox>"}, {"text_content": "K", "bbox": "<bbox>856 420 886 481</bbox>"}, {"text_content": "2", "bbox": "<bbox>866 489 884 531</bbox>"}, {"text_content": "K", "bbox": "<bbox>495 446 510 481</bbox>"}]
+Processing 60/500: /data/zhangjingyu/temp/test_images/test_0059.jpg
+[{"text_content": "153", "bbox": "<bbox>172 548 297 612</bbox>"}]
+Processing 61/500: /data/zhangjingyu/temp/test_images/test_0060.jpg
+[{"text_content": "1154", "bbox": "<bbox>204 610 484 796</bbox>"}, {"text_content": "133", "bbox": "<bbox>3 512 124 592</bbox>"}]
+Processing 62/500: /data/zhangjingyu/temp/test_images/test_0061.jpg
+[{"text_content": "A048", "bbox": "<bbox>283 793 519 914</bbox>"}]
+Processing 63/500: /data/zhangjingyu/temp/test_images/test_0062.jpg
+[{"text_content": "K210", "bbox": "<bbox>713 621 936 799</bbox>"}]
+Processing 64/500: /data/zhangjingyu/temp/test_images/test_0063.jpg
+[]
+Processing 65/500: /data/zhangjingyu/temp/test_images/test_0064.jpg
+[{"text_content": "P4076", "bbox": "<bbox>550 481 715 581</bbox>"}]
+Processing 66/500: /data/zhangjingyu/temp/test_images/test_0065.jpg
+[{"text_content": "0-2596", "bbox": "<bbox>223 673 406 792</bbox>"}, {"text_content": "0-2590", "bbox": "<bbox>744 692 999 796</bbox>"}]
+Processing 67/500: /data/zhangjingyu/temp/test_images/test_0066.jpg
+[{"text_content": "2346", "bbox": "<bbox>195 873 369 998</bbox>"}, {"text_content": "31", "bbox": "<bbox>354 390 369 419</bbox>"}]
+Processing 68/500: /data/zhangjingyu/temp/test_images/test_0067.jpg
+[{"text_content": "-11162", "bbox": "<bbox>738 637 943 808</bbox>"}, {"text_content": "-11163", "bbox": "<bbox>920 532 994 613</bbox>"}]
+Processing 69/500: /data/zhangjingyu/temp/test_images/test_0068.jpg
+[{"text_content": "232", "bbox": "<bbox>580 869 714 998</bbox>"}]
+Processing 70/500: /data/zhangjingyu/temp/test_images/test_0069.jpg
+[{"text_content": "0-2172", "bbox": "<bbox>3 737 166 870</bbox>"}]
+Processing 71/500: /data/zhangjingyu/temp/test_images/test_0070.jpg
+[]
+Processing 72/500: /data/zhangjingyu/temp/test_images/test_0071.jpg
+[{"text_content": "-21101", "bbox": "<bbox>184 662 413 825</bbox>"}, {"text_content": "-21102", "bbox": "<bbox>466 551 585 634</bbox>"}]
+Processing 73/500: /data/zhangjingyu/temp/test_images/test_0072.jpg
+[{"text_content": "商业-48", "bbox": "<bbox>583 550 765 830</bbox>"}]
+Processing 74/500: /data/zhangjingyu/temp/test_images/test_0073.jpg
+[{"text_content": "0-2242", "bbox": "<bbox>24 791 214 852</bbox>"}, {"text_content": "0-2243", "bbox": "<bbox>407 740 651 802</bbox>"}, {"text_content": "0-224", "bbox": "<bbox>815 694 992 754</bbox>"}]
+Processing 75/500: /data/zhangjingyu/temp/test_images/test_0074.jpg
+[{"text_content": "K168", "bbox": "<bbox>291 688 669 999</bbox>"}, {"text_content": "K169", "bbox": "<bbox>728 526 921 660</bbox>"}]
+Processing 76/500: /data/zhangjingyu/temp/test_images/test_0075.jpg
+[]
+Processing 77/500: /data/zhangjingyu/temp/test_images/test_0076.jpg
+[{"text_content": "0-2131", "bbox": "<bbox>441 806 625 999</bbox>"}, {"text_content": "0-2130", "bbox": "<bbox>651 625 750 741</bbox>"}, {"text_content": "0-2129", "bbox": "<bbox>762 538 820 605</bbox>"}]
+Processing 78/500: /data/zhangjingyu/temp/test_images/test_0077.jpg
+[{"text_content": "D098", "bbox": "<bbox>39 854 290 998</bbox>"}, {"text_content": "D097", "bbox": "<bbox>523 692 692 789</bbox>"}, {"text_content": "T096", "bbox": "<bbox>736 146 761 168</bbox>"}, {"text_content": "204", "bbox": "<bbox>689 226 706 245</bbox>"}, {"text_content": "203", "bbox": "<bbox>638 239 652 256</bbox>"}]
+Processing 79/500: /data/zhangjingyu/temp/test_images/test_0078.jpg
+[{"text_content": "商业-3", "bbox": "<bbox>638 663 750 843</bbox>"}]
+Processing 80/500: /data/zhangjingyu/temp/test_images/test_0079.jpg
+[{"text_content": "2239", "bbox": "<bbox>396 882 509 965</bbox>"}]
+Processing 81/500: /data/zhangjingyu/temp/test_images/test_0080.jpg
+[{"text_content": "269", "bbox": "<bbox>174 620 372 739</bbox>"}]
+Processing 82/500: /data/zhangjingyu/temp/test_images/test_0081.jpg
+[]
+Processing 83/500: /data/zhangjingyu/temp/test_images/test_0082.jpg
+[{"text_content": "-1C61", "bbox": "<bbox>330 445 446 520</bbox>"}, {"text_content": "-1C62", "bbox": "<bbox>500 582 731 778</bbox>"}]
+Processing 84/500: /data/zhangjingyu/temp/test_images/test_0083.jpg
+[{"text_content": "C32", "bbox": "<bbox>568 693 809 879</bbox>"}]
+Processing 85/500: /data/zhangjingyu/temp/test_images/test_0084.jpg
+[{"text_content": "0006", "bbox": "<bbox>243 173 279 207</bbox>"}, {"text_content": "0004", "bbox": "<bbox>712 165 751 196</bbox>"}]
+Processing 86/500: /data/zhangjingyu/temp/test_images/test_0085.jpg
+[{"text_content": "-2394", "bbox": "<bbox>258 681 415 783</bbox>"}, {"text_content": "-2393", "bbox": "<bbox>438 616 536 672</bbox>"}]
+Processing 87/500: /data/zhangjingyu/temp/test_images/test_0086.jpg
+[]
+Processing 88/500: /data/zhangjingyu/temp/test_images/test_0087.jpg
+[{"text_content": "2204", "bbox": "<bbox>94 661 201 716</bbox>"}, {"text_content": "2205", "bbox": "<bbox>375 736 538 816</bbox>"}, {"text_content": "22", "bbox": "<bbox>862 869 989 961</bbox>"}, {"text_content": "2204", "bbox": "<bbox>163 30 224 124</bbox>"}, {"text_content": "已售停车位区域", "bbox": "<bbox>363 0 497 70</bbox>"}]
+Processing 89/500: /data/zhangjingyu/temp/test_images/test_0088.jpg
+[]
+Processing 90/500: /data/zhangjingyu/temp/test_images/test_0089.jpg
+[{"text_content": "6", "bbox": "<bbox>108 7 180 293</bbox>"}, {"text_content": "6-17", "bbox": "<bbox>446 698 660 839</bbox>"}]
+Processing 91/500: /data/zhangjingyu/temp/test_images/test_0090.jpg
+[{"text_content": "167", "bbox": "<bbox>723 843 905 988</bbox>"}]
+Processing 92/500: /data/zhangjingyu/temp/test_images/test_0091.jpg
+[{"text_content": "H142", "bbox": "<bbox>642 792 768 925</bbox>"}, {"text_content": "H143", "bbox": "<bbox>734 690 818 786</bbox>"}]
+Processing 93/500: /data/zhangjingyu/temp/test_images/test_0092.jpg
+[{"text_content": "-2242", "bbox": "<bbox>182 502 401 608</bbox>"}]
+Processing 94/500: /data/zhangjingyu/temp/test_images/test_0093.jpg
+[]
+Processing 95/500: /data/zhangjingyu/temp/test_images/test_0094.jpg
+[{"text_content": "0-1187", "bbox": "<bbox>16 675 258 813</bbox>"}, {"text_content": "0-1188", "bbox": "<bbox>419 549 543 622</bbox>"}, {"text_content": "0-1189", "bbox": "<bbox>608 482 682 528</bbox>"}]
+Processing 96/500: /data/zhangjingyu/temp/test_images/test_0095.jpg
+[{"text_content": "-1C175", "bbox": "<bbox>572 597 875 788</bbox>"}, {"text_content": "-1C1", "bbox": "<bbox>925 470 994 571</bbox>"}]
+Processing 97/500: /data/zhangjingyu/temp/test_images/test_0096.jpg
+[{"text_content": "0-2258", "bbox": "<bbox>133 722 268 805</bbox>"}, {"text_content": "0-2259", "bbox": "<bbox>369 839 599 994</bbox>"}]
+Processing 98/500: /data/zhangjingyu/temp/test_images/test_0097.jpg
+[{"text_content": "K007", "bbox": "<bbox>35 608 463 842</bbox>"}]
+Processing 99/500: /data/zhangjingyu/temp/test_images/test_0098.jpg
+[{"text_content": "2262", "bbox": "<bbox>139 818 343 882</bbox>"}]
+Processing 100/500: /data/zhangjingyu/temp/test_images/test_0099.jpg
+[{"text_content": "B196", "bbox": "<bbox>428 513 583 689</bbox>"}, {"text_content": "B", "bbox": "<bbox>232 43 258 105</bbox>"}, {"text_content": "B", "bbox": "<bbox>682 133 703 194</bbox>"}]
+Processing 101/500: /data/zhangjingyu/temp/test_images/test_0100.jpg
+[]
+Processing 102/500: /data/zhangjingyu/temp/test_images/test_0101.jpg
+[{"text_content": "263", "bbox": "<bbox>564 739 750 853</bbox>"}, {"text_content": "-2264", "bbox": "<bbox>382 629 472 684</bbox>"}]
+Processing 103/500: /data/zhangjingyu/temp/test_images/test_0102.jpg
+[{"text_content": "0811", "bbox": "<bbox>95 232 158 300</bbox>"}, {"text_content": "0810", "bbox": "<bbox>405 326 433 373</bbox>"}]
+Processing 104/500: /data/zhangjingyu/temp/test_images/test_0103.jpg
+[{"text_content": "H063", "bbox": "<bbox>382 636 504 709</bbox>"}, {"text_content": "H064", "bbox": "<bbox>548 721 733 845</bbox>"}]
+Processing 105/500: /data/zhangjingyu/temp/test_images/test_0104.jpg
+[]
+Processing 106/500: /data/zhangjingyu/temp/test_images/test_0105.jpg
+[{"text_content": "A092", "bbox": "<bbox>443 631 665 881</bbox>"}, {"text_content": "A091", "bbox": "<bbox>712 446 813 530</bbox>"}]
+Processing 107/500: /data/zhangjingyu/temp/test_images/test_0106.jpg
+[{"text_content": "389", "bbox": "<bbox>205 540 319 592</bbox>"}]
+Processing 108/500: /data/zhangjingyu/temp/test_images/test_0107.jpg
+[]
+Processing 109/500: /data/zhangjingyu/temp/test_images/test_0108.jpg
+[]
+Processing 110/500: /data/zhangjingyu/temp/test_images/test_0109.jpg
+[{"text_content": "5A", "bbox": "<bbox>76 820 324 999</bbox>"}, {"text_content": "C-034A", "bbox": "<bbox>456 601 747 773</bbox>"}, {"text_content": "8", "bbox": "<bbox>0 561 51 711</bbox>"}]
+Processing 111/500: /data/zhangjingyu/temp/test_images/test_0110.jpg
+[]
+Processing 112/500: /data/zhangjingyu/temp/test_images/test_0111.jpg
+[{"text_content": "4", "bbox": "<bbox>505 286 550 462</bbox>"}, {"text_content": "4-72", "bbox": "<bbox>678 726 759 829</bbox>"}]
+Processing 113/500: /data/zhangjingyu/temp/test_images/test_0112.jpg
+[]
+Processing 114/500: /data/zhangjingyu/temp/test_images/test_0113.jpg
+[{"text_content": "16113", "bbox": "<bbox>418 682 568 750</bbox>"}]
+Processing 115/500: /data/zhangjingyu/temp/test_images/test_0114.jpg
+[{"text_content": "B139", "bbox": "<bbox>358 625 517 787</bbox>"}]
+Processing 116/500: /data/zhangjingyu/temp/test_images/test_0115.jpg
+[{"text_content": "C-132", "bbox": "<bbox>383 614 579 805</bbox>"}, {"text_content": "C-131", "bbox": "<bbox>582 481 674 571</bbox>"}]
+Processing 117/500: /data/zhangjingyu/temp/test_images/test_0116.jpg
+[{"text_content": "B058", "bbox": "<bbox>410 786 655 992</bbox>"}]
+Processing 118/500: /data/zhangjingyu/temp/test_images/test_0117.jpg
+[{"text_content": "D119", "bbox": "<bbox>432 719 636 999</bbox>"}, {"text_content": "D118", "bbox": "<bbox>639 491 726 586</bbox>"}, {"text_content": "203", "bbox": "<bbox>868 94 888 116</bbox>"}, {"text_content": "204", "bbox": "<bbox>961 84 982 104</bbox>"}]
+Processing 119/500: /data/zhangjingyu/temp/test_images/test_0118.jpg
+[{"text_content": "B193", "bbox": "<bbox>104 456 222 545</bbox>"}, {"text_content": "B194", "bbox": "<bbox>328 631 556 810</bbox>"}]
+Processing 120/500: /data/zhangjingyu/temp/test_images/test_0119.jpg
+[{"text_content": "29037", "bbox": "<bbox>662 800 986 998</bbox>"}]
+Processing 121/500: /data/zhangjingyu/temp/test_images/test_0120.jpg
+[{"text_content": "A217", "bbox": "<bbox>452 638 576 752</bbox>"}, {"text_content": "216", "bbox": "<bbox>57 875 229 999</bbox>"}]
+Processing 122/500: /data/zhangjingyu/temp/test_images/test_0121.jpg
+[{"text_content": "-2258", "bbox": "<bbox>492 633 628 723</bbox>"}, {"text_content": "-2259", "bbox": "<bbox>375 560 466 613</bbox>"}, {"text_content": "10", "bbox": "<bbox>926 298 945 331</bbox>"}, {"text_content": "10C", "bbox": "<bbox>952 298 968 333</bbox>"}, {"text_content": "2", "bbox": "<bbox>753 186 766 213</bbox>"}]
+Processing 123/500: /data/zhangjingyu/temp/test_images/test_0122.jpg
+[{"text_content": "A224", "bbox": "<bbox>520 752 597 861</bbox>"}, {"text_content": "A225", "bbox": "<bbox>685 541 726 576</bbox>"}]
+Processing 124/500: /data/zhangjingyu/temp/test_images/test_0123.jpg
+[]
+Processing 125/500: /data/zhangjingyu/temp/test_images/test_0124.jpg
+[{"text_content": "2149", "bbox": "<bbox>266 664 359 722</bbox>"}]
+Processing 126/500: /data/zhangjingyu/temp/test_images/test_0125.jpg
+[]
+Processing 127/500: /data/zhangjingyu/temp/test_images/test_0126.jpg
+[{"text_content": "16073", "bbox": "<bbox>118 439 253 540</bbox>"}]
+Processing 128/500: /data/zhangjingyu/temp/test_images/test_0127.jpg
+[]
+Processing 129/500: /data/zhangjingyu/temp/test_images/test_0128.jpg
+[{"text_content": "0-1100", "bbox": "<bbox>66 662 220 688</bbox>"}, {"text_content": "0-1101", "bbox": "<bbox>372 663 512 687</bbox>"}, {"text_content": "0-1102", "bbox": "<bbox>766 670 914 698</bbox>"}]
+Processing 130/500: /data/zhangjingyu/temp/test_images/test_0129.jpg
+[{"text_content": "1429", "bbox": "<bbox>613 494 864 708</bbox>"}]
+Processing 131/500: /data/zhangjingyu/temp/test_images/test_0130.jpg
+[{"text_content": "-1527", "bbox": "<bbox>572 664 872 820</bbox>"}, {"text_content": "12", "bbox": "<bbox>390 128 410 156</bbox>"}, {"text_content": "2", "bbox": "<bbox>112 129 129 154</bbox>"}]
+Processing 132/500: /data/zhangjingyu/temp/test_images/test_0131.jpg
+[{"text_content": "1139", "bbox": "<bbox>45 653 189 728</bbox>"}]
+Processing 133/500: /data/zhangjingyu/temp/test_images/test_0132.jpg
+[{"text_content": "H044", "bbox": "<bbox>382 682 489 729</bbox>"}, {"text_content": "H045", "bbox": "<bbox>554 726 702 789</bbox>"}]
+Processing 134/500: /data/zhangjingyu/temp/test_images/test_0133.jpg
+[]
+Processing 135/500: /data/zhangjingyu/temp/test_images/test_0134.jpg
+[{"text_content": "D041", "bbox": "<bbox">432 750 514 805</bbox>"}, {"text_content": "E5-346", "bbox": "<bbox>387 342 413 395</bbox>"}, {"text_content": "D1-22", "<bbox>", "327 376 347 420</bbox>"}]
+Processing 136/500: /data/zhangjingyu/temp/test_images/test_0135.jpg
+[]
+Processing 137/500: /data/zhangjingyu/temp/test_images/test_0136.jpg
+[{"text_content": "B区", "bbox": "<bbox>597 255 638 316</bbox>"}, {"text_content": "B区", "bbox": "<bbox>797 270 828 319</bbox>"}, {"text_content": "B区", "bbox": "<bbox>889 280 916 327</bbox>"}, {"text_content": "B", "bbox": "<bbox>296 284 312 324</bbox>"}, {"text_content": "B", "bbox": "<bbox>366 306 378 334</bbox>"}, {"text_content": "B", "bbox": "<bbox>379 306 391 336</bbox>"}, {"text_content": "B", "bbox": "<bbox>550 296 562 329</bbox>"}, {"text_content": "B", "bbox": "<bbox>828 275 839 318</bbox>"}]
+Processing 138/500: /data/zhangjingyu/temp/test_images/test_0137.jpg
+[{"text_content": "0122", "bbox": "<bbox>859 60 897 101</bbox>"}]
+Processing 139/500: /data/zhangjingyu/temp/test_images/test_0138.jpg
+[{"text_content": "H030", "bbox": "<bbox>372 744 649 889</bbox>"}, {"text_content": "H031", "bbox": "<bbox>750 652 998 761</bbox>"}]
+Processing 140/500: /data/zhangjingyu/temp/test_images/test_0139.jpg
+[{"text_content": "C-037", "bbox": "<bbox>282 781 623 999</bbox>"}, {"text_content": "C-036", "bbox": "<bbox>776 600 992 728</bbox>"}]
+Processing 141/500: /data/zhangjingyu/temp/test_images/test_0140.jpg
+[{"text_content": "E067", "bbox": "<bbox>338 575 602 710</bbox>"}]
+Processing 142/500: /data/zhangjingyu/temp/test_images/test_0141.jpg
+[{"text_content": "-2898", "bbox": "<bbox>203 720 342 810</bbox>"}, {"text_content": "897", "bbox": "<bbox>0 843 142 961</bbox>"}]
+Processing 143/500: /data/zhangjingyu/temp/test_images/test_0142.jpg
+[{"text_content": "K173", "bbox": "<bbox>103 639 344 816</bbox>"}]
+Processing 144/500: /data/zhangjingyu/temp/test_images/test_0143.jpg
+[{"text_content": "B181", "bbox": "<bbox>453 542 625 696</bbox>"}, {"text_content": "B180", "bbox": "<bbox>279 373 388 445</bbox>"}]
+Processing 145/500: /data/zhangjingyu/temp/test_images/test_0144.jpg
+[{"text_content": "A117", "bbox": "<bbox>228 826 459 999</bbox>"}, {"text_content": "A116", "bbox": "<bbox>632 638 768 733</bbox>"}]
+Processing 146/500: /data/zhangjingyu/temp/test_images/test_0145.jpg
+[{"text_content": "-1861", "bbox": "<bbox>448 582 747 792</bbox>"}]
+Processing 147/500: /data/zhangjingyu/temp/test_images/test_0146.jpg
+[{"text_content": "-2501", "bbox": "<bbox>388 721 498 797</bbox>"}, {"text_content": "2502", "bbox": "<bbox>669 293 690 312</bbox>"}]
+Processing 148/500: /data/zhangjingyu/temp/test_images/test_0147.jpg
+[{"text_content": "3094023", "bbox": "<bbox>604 812 765 991</bbox>"}]
+Processing 149/500: /data/zhangjingyu/temp/test_images/test_0148.jpg
+[{"text_content": "0655", "bbox": "<bbox>438 638 535 686</bbox>"}, {"text_content": "06", "bbox": "<bbox>648 691 708 736</bbox>"}]
+Processing 150/500: /data/zhangjingyu/temp/test_images/test_0149.jpg
+[{"text_content": "1038", "bbox": "<bbox>438 893 571 999</bbox>"}, {"text_content": "0-1039", "bbox": "<bbox>647 743 743 823</bbox>"}, {"text_content": "1-1040", "bbox": "<bbox>813 626 872 688</bbox>"}]
+Processing 151/500: /data/zhangjingyu/temp/test_images/test_0150.jpg
+[]
+Processing 152/500: /data/zhangjingyu/temp/test_images/test_0151.jpg
+[{"text_content": "2265", "bbox": "<bbox>313 671 448 733</bbox>"}, {"text_content": "2266", "bbox": "<bbox>542 736 722 821</bbox>"}]
+Processing 153/500: /data/zhangjingyu/temp/test_images/test_0152.jpg
+[{"text_content": "2162", "bbox": "<bbox>603 776 766 895</bbox>"}, {"text_content": "2163", "bbox": "<bbox>866 650 964 723</bbox>"}]
+Processing 154/500: /data/zhangjingyu/temp/test_images/test_0153.jpg
+[{"text_content": "13090", "bbox": "<bbox>372 498 672 633</bbox>"}]
+Processing 155/500: /data/zhangjingyu/temp/test_images/test_0154.jpg
+[{"text_content": "H118", "bbox": "<bbox>313 481 518 631</bbox>"}]
+Processing 156/500: /data/zhangjingyu/temp/test_images/test_0155.jpg
+[{"text_content": "H205", "bbox": "<bbox>312 670 584 958</bbox>"}, {"text_content": "H206", "bbox": "<bbox>580 513 738 629</bbox>"}]
+Processing 157/500: /data/zhangjingyu/temp/test_images/test_0156.jpg
+[{"text_content": "0-1170", "bbox": "<bbox>72 683 163 769</bbox>"}, {"text_content": "0-117", "bbox": "<bbox>275 878 455 998</bbox>"}]
+Processing 158/500: /data/zhangjingyu/temp/test_images/test_0157.jpg
+[{"text_content": "C070", "bbox": "<bbox>468 771 585 876</bbox>"}]
+Processing 159/500: /data/zhangjingyu/temp/test_images/test_0158.jpg
+[{"text_content": "A137", "bbox": "<bbox>413 682 498 780</bbox>"}]
+Processing 160/500: /data/zhangjingyu/temp/test_images/test_0159.jpg
+[{"text_content": "B090", "bbox": "<bbox>364 719 577 896</bbox>"}, {"text_content": "B091", "bbox": "<bbox>722 489 864 606</bbox>"}]
+Processing 161/500: /data/zhangjingyu/temp/test_images/test_0160.jpg
+[{"text_content": "221", "bbox": "<bbox>276 780 410 926</bbox>"}]
+Processing 162/500: /data/zhangjingyu/temp/test_images/test_0161.jpg
+[{"text_content": "-1C124", "bbox": "<bbox>258 523 506 796</bbox>"}, {"text_content": "-1C125", "bbox": "<bbox>557 331 654 416</bbox>"}, {"text_content": "-1C126", "bbox": "<bbox>631 283 700 329</bbox>"}, {"text_content": "-1C12", "bbox": "<bbox>676 250 720 279</bbox>"}]
+Processing 163/500: /data/zhangjingyu/temp/test_images/test_0162.jpg
+[]
+Processing 164/500: /data/zhangjingyu/temp/test_images/test_0163.jpg
+[{"text_content": "K002", "bbox": "<bbox>508 801 666 935</bbox>"}, {"text_content": "K003", "bbox": "<bbox>666 709 784 838</bbox>"}]
+Processing 165/500: /data/zhangjingyu/temp/test_images/test_0164.jpg
+[{"text_content": "025", "bbox": "<bbox>250 907 352 999</bbox>"}, {"text_content": "0-2026", "bbox": "<bbox>402 712 514 829</bbox>"}, {"text_content": "0-2027", "bbox": "<bbox>520 626 585 696</bbox>"}, {"text_content": "0-2028", "bbox": "<bbox>596 560 639 604</bbox>"}]
+Processing 166/500: /data/zhangjingyu/temp/test_images/test_0165.jpg
+[{"text_content": "1302", "bbox": "<bbox>603 435 694 525</bbox>"}]
+Processing 167/500: /data/zhangjingyu/temp/test_images/test_0166.jpg
+[{"text_content": "0541", "bbox": "<bbox>195 0 252 51</bbox>"}, {"text_content": "541", "bbox": "<bbox>280 650 478 768</bbox>"}]
+Processing 168/500: /data/zhangjingyu/temp/test_images/test_0167.jpg
+[{"text_content": "1955", "bbox": "<bbox>235 513 344 579</bbox>"}, {"text_content": "1956", "bbox": "<bbox>480 640 745 814</bbox>"}]
+Processing 169/500: /data/zhangjingyu/temp/test_images/test_0168.jpg
+[]
+Processing 170/500: /data/zhangjingyu/temp/test_images/test_0169.jpg
+[{"text_content": "229", "bbox": "<bbox>259 748 423 839</bbox>"}, {"text_content": "00", "bbox": "<bbox>0 891 106 999</bbox>"}]
+Processing 171/500: /data/zhangjingyu/temp/test_images/test_0170.jpg
+[{"text_content": "260", "bbox": "<bbox>296 702 408 771</bbox>"}, {"text_content": "冀A·8*665", "bbox": "<bbox>584 41 658 154</bbox>"}]
+Processing 172/500: /data/zhangjingyu/temp/test_images/test_0171.jpg
+[{"text_content": "C-2236", "bbox": "<bbox>371 725 608 965</bbox>"}, {"text_content": "0-2237", "bbox": "<bbox>535 726 608 795</bbox>"}]
+Processing 173/500: /data/zhangjingyu/temp/test_images/test_0172.jpg
+[]
+Processing 174/500: /data/zhangjingyu/temp/test_images/test_0173.jpg
+[{"text_content": "B018", "bbox": "<bbox>648 826 759 883</bbox>"}, {"text_content": "B01", "bbox": "<bbox>926 755 994 806</bbox>"}]
+Processing 175/500: /data/zhangjingyu/temp/test_images/test_0174.jpg
+[{"text_content": "B183", "bbox": "<bbox>328 782 498 860</bbox>"}]
+Processing 176/500: /data/zhangjingyu/temp/test_images/test_0175.jpg
+[]
+Processing 177/500: /data/zhangjingyu/temp/test_images/test_0176.jpg
+[{"text_content": "20157", "bbox": "<bbox>213 409 412 529</bbox>"}]
+Processing 178/500: /data/zhangjingyu/temp/test_images/test_0177.jpg
+[{"text_content": "1114", "bbox": "<bbox>373 744 459 795</bbox>"}]
+Processing 179/500: /data/zhangjingyu/temp/test_images/test_0178.jpg
+[]
+Processing 180/500: /data/zhangjingyu/temp/test_images/test_0179.jpg
+[{"text_content": "R026", "bbox": "<bbox>376 480 692 623</bbox>"}]
+Processing 181/500: /data/zhangjingyu/temp/test_images/test_0180.jpg
+[{"text_content": "2055", "bbox": "<bbox>220 698 416 825</bbox>"}]
+Processing 182/500: /data/zhangjingyu/temp/test_images/test_0181.jpg
+[{"text_content": "B096", "bbox": "<bbox>214 586 402 716</bbox>"}, {"text_content": "BO", "bbox": "<bbox>654 851 842 999</bbox>"}]
+Processing 183/500: /data/zhangjingyu/temp/test_images/test_0182.jpg
+[{"text_content": "0151", "bbox": "<bbox>719 51 761 109</bbox>"}]
+Processing 184/500: /data/zhangjingyu/temp/test_images/test_0183.jpg
+[{"text_content": "1C308", "bbox": "<bbox>494 501 845 796</bbox>"}]
+Processing 185/500: /data/zhangjingyu/temp/test_images/test_0184.jpg
+[{"text_content": "2158", "bbox": "<bbox>492 548 614 638</bbox>"}, {"text_content": "2157", "bbox": "<bbox>375 478 437 520</bbox>"}]
+Processing 186/500: /data/zhangjingyu/temp/test_images/test_0185.jpg
+[{"text_content": "107", "bbox": "<bbox>318 701 415 769</bbox>"}]
+Processing 187/500: /data/zhangjingyu/temp/test_images/test_0186.jpg
+[{"text_content": "1-039", "bbox": "<bbox>382 0 433 42</bbox>"}, {"text_content": "1-39", "bbox": "<bbox>226 721 368 850</bbox>"}]
+Processing 188/500: /data/zhangjingyu/temp/test_images/test_0187.jpg
+[{"text_content": "812-823", "bbox": "<bbox>3 169 130 284</bbox>"}]
+Processing 189/500: /data/zhangjingyu/temp/test_images/test_0188.jpg
+[{"text_content": "125", "bbox": "<bbox>489 538 552 585</bbox>"}, {"text_content": "124", "bbox": "<bbox>631 640 721 706</bbox>"}]
+Processing 190/500: /data/zhangjingyu/temp/test_images/test_0189.jpg
+[{"text_content": "H009", "bbox": "<bbox>313 568 431 616</bbox>"}, {"text_content": "H010", "bbox": "<bbox>579 636 758 716</bbox>"}]
+Processing 191/500: /data/zhangjingyu/temp/test_images/test_0190.jpg
+[]
+Processing 192/500: /data/zhangjingyu/temp/test_images/test_0191.jpg
+[{"text_content": "1138", "bbox": "<bbox>425 820 543 917</bbox>"}, {"text_content": "1137", "bbox": "<bbox>625 662 691 721</bbox>"}]
+Processing 193/500: /data/zhangjingyu/temp/test_images/test_0192.jpg
+[]
+Processing 194/500: /data/zhangjingyu/temp/test_images/test_0193.jpg
+[{"text_content": "-1C66", "bbox": "<bbox>200 740 464 865</bbox>"}, {"text_content": "35", "bbox": "<bbox>2 668 82 732</bbox>"}]
+Processing 195/500: /data/zhangjingyu/temp/test_images/test_0194.jpg
+[{"text_content": "127", "bbox": "<bbox>563 648 682 742</bbox>"}, {"text_content": "128", "bbox": "<bbox>103 828 297 979</bbox>"}]
+Processing 196/500: /data/zhangjingyu/temp/test_images/test_0195.jpg
+[{"text_content": "K107", "bbox": "<bbox>186 520 345 641</bbox>"}, {"text_content": "K", "bbox": "<bbox>624 326 643 366</bbox>"}, {"text_content": "4", "bbox": "<bbox>629 368 640 390</bbox>"}]
+Processing 197/500: /data/zhangjingyu/temp/test_images/test_0196.jpg
+[{"text_content": "16026", "bbox": "<bbox>408 681 525 790</bbox>"}]
+Processing 198/500: /data/zhangjingyu/temp/test_images/test_0197.jpg
+[{"text_content": "0-2124", "bbox": "<bbox>100 604 179 679</bbox>"}, {"text_content": "0-2123", "bbox": "<bbox>182 681 299 792</bbox>"}, {"text_content": "0-212", "bbox": "<bbox>354 841 558 999</bbox>"}]
+Processing 199/500: /data/zhangjingyu/temp/test_images/test_0198.jpg
+[{"text_content": "0-1605", "bbox": "<bbox>432 588 535 661</bbox>"}, {"text_content": "0-1604", "bbox": "<bbox>677 721 959 920</bbox>"}]
+Processing 200/500: /data/zhangjingyu/temp/test_images/test_0199.jpg
+[{"text_content": "-2332", "bbox": "<bbox>686 822 835 890</bbox>"}]
+Processing 201/500: /data/zhangjingyu/temp/test_images/test_0200.jpg
+[{"text_content": "29021", "bbox": "<bbox>338 628 590 692</bbox>"}]
+Processing 202/500: /data/zhangjingyu/temp/test_images/test_0201.jpg
+[{"text_content": "E059", "bbox": "<bbox>594 589 692 646</bbox>"}, {"text_content": "LE060", "bbox": "<bbox>113 705 388 859</bbox>"}]
+Processing 203/500: /data/zhangjingyu/temp/test_images/test_0202.jpg
+[{"text_content": "-177", "bbox": "<bbox>315 579 497 730</bbox>"}, {"text_content": "-178", "bbox": "<bbox>597 451 701 509</bbox>"}]
+Processing 204/500: /data/zhangjingyu/temp/test_images/test_0203.jpg
+[{"text_content": "16033", "bbox": "<bbox>701 715 837 909</bbox>"}]
+Processing 205/500: /data/zhangjingyu/temp/test_images/test_0204.jpg
+[]
+Processing 206/500: /data/zhangjingyu/temp/test_images/test_0205.jpg
+[{"text_content": "257", "bbox": "<bbox>388 821 488 876</bbox>"}, {"text_content": "258", "bbox": "<bbox>137 729 213 773</bbox>"}]
+Processing 207/500: /data/zhangjingyu/temp/test_images/test_0206.jpg
+[{"text_content": "3-32", "bbox": "<bbox>448 779 645 894</bbox>"}, {"text_content": "3-33", "bbox": "<bbox>262 715 396 788</bbox>"}, {"text_content": "3-34", "bbox": "<bbox>59 640 142 684</bbox>"}, {"text_content": "3-033", "bbox": "<bbox>282 137 313 188</bbox>"}, {"text_content": "3-34", "bbox": "<bbox>117 219 145 261</bbox>"}]
+Processing 208/500: /data/zhangjingyu/temp/test_images/test_0207.jpg
+[{"text_content": "0862", "bbox": "<bbox>127 820 269 897</bbox>"}]
+Processing 209/500: /data/zhangjingyu/temp/test_images/test_0208.jpg
+[{"text_content": "0562", "bbox": "<bbox>60 460 207 524</bbox>"}, {"text_content": "0563", "bbox": "<bbox>343 510 515 578</bbox>"}, {"text_content": "0564", "bbox": "<bbox>710 566 929 640</bbox>"}, {"text_content": "0510-0522", "bbox": "<bbox>918 20 994 66</bbox>"}]
+Processing 210/500: /data/zhangjingyu/temp/test_images/test_0209.jpg
+[{"text_content": "B-075", "bbox": "<bbox>208 688 275 765</bbox>"}]
+Processing 211/500: /data/zhangjingyu/temp/test_images/test_0210.jpg
+[]
+Processing 212/500: /data/zhangjingyu/temp/test_images/test_0211.jpg
+[]
+Processing 213/500: /data/zhangjingyu/temp/test_images/test_0212.jpg
+[]
+Processing 214/500: /data/zhangjingyu/temp/test_images/test_0213.jpg
+[{"text_content": "K033", "bbox": "<bbox>332 590 638 665</bbox>"}, {"text_content": "K03", "bbox": "<bbox>783 588 999 658</bbox>"}]
+Processing 215/500: /data/zhangjingyu/temp/test_images/test_0214.jpg
+[]
+Processing 216/500: /data/zhangjingyu/temp/test_images/test_0215.jpg
+[{"text_content": "151", "bbox": "<bbox>392 793 645 923</bbox>"}]
+Processing 217/500: /data/zhangjingyu/temp/test_images/test_0216.jpg
+[{"text_content": "K224", "bbox": "<bbox>186 688 464 895</bbox>"}]
+Processing 218/500: /data/zhangjingyu/temp/test_images/test_0217.jpg
+[{"text_content": "B2007", "bbox": "<bbox>254 858 427 999</bbox>"}]
+Processing 219/500: /data/zhangjingyu/temp/test_images/test_0218.jpg
+[{"text_content": "11035", "bbox": "<bbox>473 563 776 759</bbox>"}]
+Processing 220/500: /data/zhangjingyu/temp/test_images/test_0219.jpg
+[{"text_content": "-169", "bbox": "<bbox>418 620 625 755</bbox>"}, {"text_content": "-168", "bbox": "<bbox>770 497 893 578</bbox>"}]
+Processing 221/500: /data/zhangjingyu/temp/test_images/test_0220.jpg
+[{"text_content": "ZC01", "bbox": "<bbox>241 863 494 999</bbox>"}]
+Processing 222/500: /data/zhangjingyu/temp/test_images/test_0221.jpg
+[{"text_content": "C334", "bbox": "<bbox>338 801 589 998</bbox>"}, {"text_content": "C333", "bbox": "<bbox>726 564 823 640</bbox>"}]
+Processing 223/500: /data/zhangjingyu/temp/test_images/test_0222.jpg
+[{"text_content": "K023", "bbox": "<bbox>64 579 224 672</bbox>"}, {"text_content": "K024", "bbox": "<bbox>260 679 521 847</bbox>"}]
+Processing 224/500: /data/zhangjingyu/temp/test_images/test_0223.jpg
+[]
+Processing 225/500: /data/zhangjingyu/temp/test_images/test_0224.jpg
+[{"text_content": "20164", "bbox": "<bbox>518 574 656 635</bbox>"}]
+Processing 226/500: /data/zhangjingyu/temp/test_images/test_0225.jpg
+[{"text_content": "1-053", "bbox": "<bbox>440 147 484 217</bbox>"}, {"text_content": "1-53", "bbox": "<bbox>359 752 509 845</bbox>"}]
+Processing 227/500: /data/zhangjingyu/temp/test_images/test_0226.jpg
+[{"text_content": "A032", "bbox": "<bbox>635 830 842 969</bbox>"}]
+Processing 228/500: /data/zhangjingyu/temp/test_images/test_0227.jpg
+[{"text_content": "B160", "bbox": "<bbox>618 479 813 644</bbox>"}]
+Processing 229/500: /data/zhangjingyu/temp/test_images/test_0228.jpg
+[{"text_content": "D-118", "bbox": "<bbox>303 626 612 804</bbox>"}]
+Processing 230/500: /data/zhangjingyu/temp/test_images/test_0229.jpg
+[{"text_content": "3491", "bbox": "<bbox>230 813 365 865</bbox>"}]
+Processing 231/500: /data/zhangjingyu/temp/test_images/test_0230.jpg
+[]
+Processing 232/500: /data/zhangjingyu/temp/test_images/test_0231.jpg
+[{"text_content": "400-426", "bbox": "<bbox>396 167 534 257</bbox>"}]
+Processing 233/500: /data/zhangjingyu/temp/test_images/test_0232.jpg
+[{"text_content": "6", "bbox": "<bbox>514 228 595 493</bbox>"}]
+Processing 234/500: /data/zhangjingyu/temp/test_images/test_0233.jpg
+[]
+Processing 235/500: /data/zhangjingyu/temp/test_images/test_0234.jpg
+[]
+Processing 236/500: /data/zhangjingyu/temp/test_images/test_0235.jpg
+[{"text_content": "-1C198", "bbox": "<bbox>228 660 518 879</bbox>"}]
+Processing 237/500: /data/zhangjingyu/temp/test_images/test_0236.jpg
+[{"text_content": "0-2133", "bbox": "<bbox>488 805 663 999</bbox>"}, {"text_content": "0-2132", "bbox": "<bbox>681 636 771 749</bbox>"}]
+Processing 238/500: /data/zhangjingyu/temp/test_images/test_0237.jpg
+[{"text_content": "1162", "bbox": "<bbox>248 602 421 712</bbox>"}]
+Processing 239/500: /data/zhangjingyu/temp/test_images/test_0238.jpg
+[]
+Processing 240/500: /data/zhangjingyu/temp/test_images/test_0239.jpg
+[{"text_content": "LK149", "bbox": "<bbox>382 526 654 653</bbox>"}]
+Processing 241/500: /data/zhangjingyu/temp/test_images/test_0240.jpg
+[{"text_content": "F066", "bbox": "<bbox>635 498 879 780</bbox>"}]
+Processing 242/500: /data/zhangjingyu/temp/test_images/test_0241.jpg
+[{"text_content": "0-2286", "bbox": "<bbox>72 793 283 889</bbox>"}]
+Processing 243/500: /data/zhangjingyu/temp/test_images/test_0242.jpg
+[{"text_content": "K167", "bbox": "<bbox>263 656 574 922</bbox>"}, {"text_content": "K162", "bbox": "<bbox>655 382 894 594</bbox>"}]
+Processing 244/500: /data/zhangjingyu/temp/test_images/test_0243.jpg
+[{"text_content": "1634", "bbox": "<bbox>662 45 713 109</bbox>"}, {"text_content": "1631", "bbox": "<bbox>443 554 630 656</bbox>"}]
+Processing 245/500: /data/zhangjingyu/temp/test_images/test_0244.jpg
+[{"text_content": "-1C116", "bbox": "<bbox>650 493 868 703</bbox>"}, {"text_content": "-1C117", "bbox": "<bbox>868 352 991 449</bbox>"}]
+Processing 246/500: /data/zhangjingyu/temp/test_images/test_0245.jpg
+[{"text_content": "-1197", "bbox": "<bbox>142 626 403 789</bbox>"}]
+Processing 247/500: /data/zhangjingyu/temp/test_images/test_0246.jpg
+[]
+Processing 248/500: /data/zhangjingyu/temp/test_images/test_0247.jpg
+[]
+Processing 249/500: /data/zhangjingyu/temp/test_images/test_0248.jpg
+[{"text_content": "G089", "bbox": "<bbox>217 650 449 872</bbox>"}]
+Processing 250/500: /data/zhangjingyu/temp/test_images/test_0249.jpg
+[{"text_content": "H281", "bbox": "<bbox>506 791 697 998</bbox>"}]
+Processing 251/500: /data/zhangjingyu/temp/test_images/test_0250.jpg
+[]
+Processing 252/500: /data/zhangjingyu/temp/test_images/test_0251.jpg
+[{"text_content": "2860", "bbox": "<bbox>692 663 916 752</bbox>"}]
+Processing 253/500: /data/zhangjingyu/temp/test_images/test_0252.jpg
+[{"text_content": "4-075", "bbox": "<bbox>164 26 235 109</bbox>"}, {"text_content": "4-073", "bbox": "<bbox>884 175 919 229</bbox>"}, {"text_content": "4-74", "bbox": "<bbox>554 798 723 872</bbox>"}]
+Processing 254/500: /data/zhangjingyu/temp/test_images/test_0253.jpg
+[]
+Processing 255/500: /data/zhangjingyu/temp/test_images/test_0254.jpg
+[{"text_content": "-1222", "bbox": "<bbox>85 657 349 860</bbox>"}]
+Processing 256/500: /data/zhangjingyu/temp/test_images/test_0255.jpg
+[{"text_content": "023", "bbox": "<bbox>500 650 571 699</bbox>"}]
+Processing 257/500: /data/zhangjingyu/temp/test_images/test_0256.jpg
+[{"text_content": "商业-63", "bbox": "<bbox>226 618 413 818</bbox>"}, {"text_content": "A", "bbox": "<bbox>223 138 263 236</bbox>"}]
+Processing 258/500: /data/zhangjingyu/temp/test_images/test_0257.jpg
+[{"text_content": "0449", "bbox": "<bbox>519 38 558 106</bbox>"}]
+Processing 259/500: /data/zhangjingyu/temp/test_images/test_0258.jpg
+[{"text_content": "0-2235", "bbox": "<bbox>428 843 539 952</bbox>"}, {"text_content": "2B-0-2234", "bbox": "<bbox>5 322 42 349</bbox>"}]
+Processing 260/500: /data/zhangjingyu/temp/test_images/test_0259.jpg
+[{"text_content": "2", "bbox": "<bbox>214 59 246 99</bbox>"}, {"text_content": "323", "bbox": "<bbox>4 802 76 899</bbox>"}]
+Processing 261/500: /data/zhangjingyu/temp/test_images/test_0260.jpg
+[{"text_content": "0-2083", "bbox": "<bbox>164 662 302 741</bbox>"}, {"text_content": "0-2082", "bbox": "<bbox>390 765 607 893</bbox>"}]
+Processing 262/500: /data/zhangjingyu/temp/test_images/test_0261.jpg
+[{"text_content": "-1187", "bbox": "<bbox>382 554 484 619</bbox>"}, {"text_content": "-1188", "bbox": "<bbox>536 684 731 852</bbox>"}]
+Processing 263/500: /data/zhangjingyu/temp/test_images/test_0262.jpg
+[{"text_content": "2223", "bbox": "<bbox>668 664 882 790</bbox>"}, {"text_content": "2224", "bbox": "<bbox>445 560 573 630</bbox>"}]
+Processing 264/500: /data/zhangjingyu/temp/test_images/test_0263.jpg
+[{"text_content": "4", "bbox": "<bbox>363 221 398 336</bbox>"}, {"text_content": "4-18", "bbox": "<bbox>304 709 496 858</bbox>"}]
+Processing 265/500: /data/zhangjingyu/temp/test_images/test_0264.jpg
+[{"text_content": "530", "bbox": "<bbox>258 688 346 771</bbox>"}]
+Processing 266/500: /data/zhangjingyu/temp/test_images/test_0265.jpg
+[{"text_content": "-2509", "bbox": "<bbox>93 691 296 834</bbox>"}, {"text_content": "-2508", "bbox": "<bbox>319 601 436 675</bbox>"}]
+Processing 267/500: /data/zhangjingyu/temp/test_images/test_0266.jpg
+[{"text_content": "0-1574", "bbox": "<bbox>518 560 607 603</bbox>"}, {"text_content": "0-1573", "bbox": "<bbox>705 621 853 692</bbox>"}]
+Processing 268/500: /data/zhangjingyu/temp/test_images/test_0267.jpg
+[{"text_content": "ZC014085", "bbox": "<bbox>142 793 423 990</bbox>"}]
+Processing 269/500: /data/zhangjingyu/temp/test_images/test_0268.jpg
+[{"text_content": "D010", "bbox": "<bbox>308 643 564 896</bbox>"}, {"text_content": "D009", "bbox": "<bbox>669 459 806 549</bbox>"}, {"text_content": "D008", "bbox": "<bbox>826 376 912 434</bbox>"}]
+Processing 270/500: /data/zhangjingyu/temp/test_images/test_0269.jpg
+[{"text_content": "-2205", "bbox": "<bbox>286 790 469 886</bbox>"}]
+Processing 271/500: /data/zhangjingyu/temp/test_images/test_0270.jpg
+[{"text_content": "158", "bbox": "<bbox>212 630 449 856</bbox>"}, {"text_content": "157", "bbox": "<bbox>10 429 123 508</bbox>"}]
+Processing 272/500: /data/zhangjingyu/temp/test_images/test_0271.jpg
+[{"text_content": "-1C168", "bbox": "<bbox>92 643 389 847</bbox>"}]
+Processing 273/500: /data/zhangjingyu/temp/test_images/test_0272.jpg
+[{"text_content": "203", "bbox": "<bbox>244 628 453 732</bbox>"}]
+Processing 274/500: /data/zhangjingyu/temp/test_images/test_0273.jpg
+[{"text_content": "109", "bbox": "<bbox>488 765 669 885</bbox>"}]
+Processing 275/500: /data/zhangjingyu/temp/test_images/test_0274.jpg
+[{"text_content": "K100", "bbox": "<bbox>396 633 598 845</bbox>"}]
+Processing 276/500: /data/zhangjingyu/temp/test_images/test_0275.jpg
+[{"text_content": "-1371", "bbox": "<bbox>92 640 426 862</bbox>"}]
+Processing 277/500: /data/zhangjingyu/temp/test_images/test_0276.jpg
+[]
+Processing 278/500: /data/zhangjingyu/temp/test_images/test_0277.jpg
+[{"text_content": "-1735", "bbox": "<bbox>415 589 630 734</bbox>"}, {"text_content": "-1736", "bbox": "<bbox>669 494 794 569</bbox>"}]
+Processing 279/500: /data/zhangjingyu/temp/test_images/test_0278.jpg
+[{"text_content": "0-2113", "bbox": "<bbox>478 781 593 868</bbox>"}, {"text_content": "0-2", "bbox": "<bbox>686 916 803 999</bbox>"}]
+Processing 280/500: /data/zhangjingyu/temp/test_images/test_0279.jpg
+[]
+Processing 281/500: /data/zhangjingyu/temp/test_images/test_0280.jpg
+[{"text_content": "D011", "bbox": "<bbox>469 732 643 913</bbox>"}]
+Processing 282/500: /data/zhangjingyu/temp/test_images/test_0281.jpg
+[{"text_content": "D109", "bbox": "<bbox>140 661 416 829</bbox>"}]
+Processing 283/500: /data/zhangjingyu/temp/test_images/test_0282.jpg
+[{"text_content": "1064", "bbox": "<bbox>761 125 822 212</bbox>"}, {"text_content": "1065", "bbox": "<bbox>489 302 526 348</bbox>"}]
+Processing 284/500: /data/zhangjingyu/temp/test_images/test_0283.jpg
+[]
+Processing 285/500: /data/zhangjingyu/temp/test_images/test_0284.jpg
+[]
+Processing 286/500: /data/zhangjingyu/temp/test_images/test_0285.jpg
+[]
+Processing 287/500: /data/zhangjingyu/temp/test_images/test_0286.jpg
+[{"text_content": "-1587", "bbox": "<bbox>325 528 540 773</bbox>"}, {"text_content": "-1588", "bbox": "<bbox>603 337 694 418</bbox>"}, {"text_content": "8", "bbox": "<bbox>791 31 813 66</bbox>"}]
+Processing 288/500: /data/zhangjingyu/temp/test_images/test_0287.jpg
+[{"text_content": "A区", "bbox": "<bbox">434 538 635 659</bbox>"}, {"text_content": "166", "bbox": "<bbox">453 592 548 668</bbox>}]
+Processing 289/500: /data/zhangjingyu/temp/test_images/test_0288.jpg
+[{"text_content": "-1921", "bbox": "<bbox>276 643 499 802</bbox>"}, {"text_content": "-1922", "bbox": "<bbox>556 531 664 599</bbox>"}]
+Processing 290/500: /data/zhangjingyu/temp/test_images/test_0289.jpg
+[{"text_content": "K035", "bbox": "<bbox>550 504 790 654</bbox>"}, {"text_content": "037", "bbox": "<bbox>443 445 518 487</bbox>"}]
+Processing 291/500: /data/zhangjingyu/temp/test_images/test_0290.jpg
+[{"text_content": "0-1201", "bbox": "<bbox>0 740 183 842</bbox>"}, {"text_content": "0-1206", "bbox": "<bbox>318 640 426 695</bbox>"}]
+Processing 292/500: /data/zhangjingyu/temp/test_images/test_0291.jpg
+[{"text_content": "-2940", "bbox": "<bbox>346 922 440 998</bbox>"}, {"text_content": "-2941", "bbox": "<bbox>459 833 516 881</bbox>"}]
+Processing 293/500: /data/zhangjingyu/temp/test_images/test_0292.jpg
+[{"text_content": "188", "bbox": "<bbox>220 728 323 790</bbox>"}, {"text_content": "187", "bbox": "<bbox>465 821 578 905</bbox>"}, {"text_content": "冀A62", "bbox": "<bbox>932 100 996 204</bbox>"}, {"text_content": "冀A36M1", "bbox": "<bbox>538 175 602 255</bbox>"}]
+Processing 294/500: /data/zhangjingyu/temp/test_images/test_0293.jpg
+[{"text_content": "B232", "bbox": "<bbox>325 622 541 804</bbox>"}]
+Processing 295/500: /data/zhangjingyu/temp/test_images/test_0294.jpg
+[{"text_content": "3-070", "bbox": "<bbox>381 21 419 93</bbox>"}, {"text_content": "3", "bbox": "<bbox>272 291 297 402</bbox>"}, {"text_content": "3", "bbox": "<bbox>973 336 989 378</bbox>"}]
+Processing 296/500: /data/zhangjingyu/temp/test_images/test_0295.jpg
+[{"text_content": "A076", "bbox": "<bbox>113 557 277 675</bbox>"}, {"text_content": "A075", "bbox": "<bbox>478 802 825 999</bbox>"}]
+Processing 297/500: /data/zhangjingyu/temp/test_images/test_0296.jpg
+[{"text_content": "H191", "bbox": "<bbox>238 654 721 805</bbox>"}]
+Processing 298/500: /data/zhangjingyu/temp/test_images/test_0297.jpg
+[{"text_content": "24009", "bbox": "<bbox>443 488 744 666</bbox>"}]
+Processing 299/500: /data/zhangjingyu/temp/test_images/test_0298.jpg
+[{"text_content": "1959", "bbox": "<bbox>683 649 899 786</bbox>"}]
+Processing 300/500: /data/zhangjingyu/temp/test_images/test_0299.jpg
+[]
+Processing 301/500: /data/zhangjingyu/temp/test_images/test_0300.jpg
+[{"text_content": "B123", "bbox": "<bbox>273 713 581 988</bbox>"}, {"text_content": "B124", "bbox": "<bbox>668 528 793 623</bbox>"}]
+Processing 302/500: /data/zhangjingyu/temp/test_images/test_0301.jpg
+[{"text_content": "-1C169", "bbox": "<bbox>575 528 848 744</bbox>"}, {"text_content": "-1C170", "bbox": "<bbox>876 391 999 488</bbox>"}]
+Processing 303/500: /data/zhangjingyu/temp/test_images/test_0302.jpg
+[{"text_content": "1530", "bbox": "<bbox>258 413 393 499</bbox>"}, {"text_content": "1531", "bbox": "<bbox>466 560 711 761</bbox>"}]
+Processing 304/500: /data/zhangjingyu/temp/test_images/test_0303.jpg
+[{"text_content": "A172", "bbox": "<bbox>400 845 557 971</bbox>"}]
+Processing 305/500: /data/zhangjingyu/temp/test_images/test_0304.jpg
+[{"text_content": "2", "bbox": "<bbox>452 218 498 445</bbox>"}, {"text_content": "2-49", "bbox": "<bbox>756 641 878 720</bbox>"}, {"text_content": "2-49", "bbox": "<bbox>878 83 908 160</bbox>"}]
+Processing 306/500: /data/zhangjingyu/temp/test_images/test_0305.jpg
+[{"text_content": "A098", "bbox": "<bbox>263 688 586 908</bbox>"}]
+Processing 307/500: /data/zhangjingyu/temp/test_images/test_0306.jpg
+[{"text_content": "C-146", "bbox": "<bbox>243 583 508 786</bbox>"}, {"text_content": "C-145", "bbox": "<bbox>550 451 664 543</bbox>"}]
+Processing 308/500: /data/zhangjingyu/temp/test_images/test_0307.jpg
+[{"text_content": "K011", "bbox": "<bbox>373 690 767 999</bbox>"}, {"text_content": "1", "bbox": "<bbox>835 0 864 41</bbox>"}]
+Processing 309/500: /data/zhangjingyu/temp/test_images/test_0308.jpg
+[]
+Processing 310/500: /data/zhangjingyu/temp/test_images/test_0309.jpg
+[{"text_content": "0-2146", "bbox": "<bbox>574 596 701 686</bbox>"}, {"text_content": "C-21", "bbox": "<bbox>808 744 992 881</bbox>"}]
+Processing 311/500: /data/zhangjingyu/temp/test_images/test_0310.jpg
+[]
+Processing 312/500: /data/zhangjingyu/temp/test_images/test_0311.jpg
+[{"text_content": "B093", "bbox": "<bbox>2 843 174 969</bbox>"}, {"text_content": "冀A·XX038", "bbox": "<bbox>458 181 499 256</bbox>"}]
+Processing 313/500: /data/zhangjingyu/temp/test_images/test_0312.jpg
+[{"text_content": "-1C181", "bbox": "<bbox>613 692 907 840</bbox>"}]
+Processing 314/500: /data/zhangjingyu/temp/test_images/test_0313.jpg
+[{"text_content": "-1C60", "bbox": "<bbox>213 588 494 763</bbox>"}]
+Processing 315/500: /data/zhangjingyu/temp/test_images/test_0314.jpg
+[]
+Processing 316/500: /data/zhangjingyu/temp/test_images/test_0315.jpg
+[{"text_content": "185", "bbox": "<bbox>802 835 901 978</bbox>"}]
+Processing 317/500: /data/zhangjingyu/temp/test_images/test_0316.jpg
+[]
+Processing 318/500: /data/zhangjingyu/temp/test_images/test_0317.jpg
+[{"text_content": "447", "bbox": "<bbox>464 652 573 698</bbox>"}]
+Processing 319/500: /data/zhangjingyu/temp/test_images/test_0318.jpg
+[]
+Processing 320/500: /data/zhangjingyu/temp/test_images/test_0319.jpg
+[]
+Processing 321/500: /data/zhangjingyu/temp/test_images/test_0320.jpg
+[{"text_content": "20217", "bbox": "<bbox>154 736 342 859</bbox>"}]
+Processing 322/500: /data/zhangjingyu/temp/test_images/test_0321.jpg
+[{"text_content": "2242", "bbox": "<bbox>193 813 334 943</bbox>"}, {"text_content": "104", "bbox": "<bbox>702 447 724 476</bbox>"}, {"text_content": "106", "bbox": "<bbox>685 467 704 492</bbox>"}]
+Processing 323/500: /data/zhangjingyu/temp/test_images/test_0322.jpg
+[]
+Processing 324/500: /data/zhangjingyu/temp/test_images/test_0323.jpg
+[{"text_content": "751", "bbox": "<bbox>322 663 456 747</bbox>"}, {"text_content": "G157", "bbox": "<bbox>242 0 284 50</bbox>"}]
+Processing 325/500: /data/zhangjingyu/temp/test_images/test_0324.jpg
+[{"text_content": "-1C190", "bbox": "<bbox>568 565 865 785</bbox>"}]
+Processing 326/500: /data/zhangjingyu/temp/test_images/test_0325.jpg
+[{"text_content": "130", "bbox": "<bbox>716 742 854 856</bbox>"}]
+Processing 327/500: /data/zhangjingyu/temp/test_images/test_0326.jpg
+[{"text_content": "H064", "bbox": "<bbox>343 868 525 982</bbox>"}, {"text_content": "H065", "bbox": "<bbox>566 796 681 859</bbox>"}]
+Processing 328/500: /data/zhangjingyu/temp/test_images/test_0327.jpg
+[]
+Processing 329/500: /data/zhangjingyu/temp/test_images/test_0328.jpg
+[{"text_content": "16052", "bbox": "<bbox>773 593 880 702</bbox>"}]
+Processing 330/500: /data/zhangjingyu/temp/test_images/test_0329.jpg
+[]
+Processing 331/500: /data/zhangjingyu/temp/test_images/test_0330.jpg
+[{"text_content": "0-2004", "bbox": "<bbox>477 693 649 889</bbox>"}, {"text_content": "0-2005", "bbox": "<bbox>652 513 774 664</bbox>"}, {"text_content": "0-2006", "bbox": "<bbox>734 464 805 524</bbox>"}]
+Processing 332/500: /data/zhangjingyu/temp/test_images/test_0331.jpg
+[]
+Processing 333/500: /data/zhangjingyu/temp/test_images/test_0332.jpg
+[{"text_content": "F022", "bbox": "<bbox>468 643 585 788</bbox>"}]
+Processing 334/500: /data/zhangjingyu/temp/test_images/test_0333.jpg
+[{"text_content": "-1737", "bbox": "<bbox>265 611 525 853</bbox>"}]
+Processing 335/500: /data/zhangjingyu/temp/test_images/test_0334.jpg
+[{"text_content": "0-223", "bbox": "<bbox>16 606 148 668</bbox>"}, {"text_content": "0-224", "bbox": "<bbox>263 676 450 766</bbox>"}]
+Processing 336/500: /data/zhangjingyu/temp/test_images/test_0335.jpg
+[{"text_content": "-1891", "bbox": "<bbox>480 488 568 566</bbox>"}, {"text_content": "-1892", "bbox": "<bbox>535 641 699 839</bbox>"}]
+Processing 337/500: /data/zhangjingyu/temp/test_images/test_0336.jpg
+[]
+Processing 338/500: /data/zhangjingyu/temp/test_images/test_0337.jpg
+[{"text_content": "0-2230", "bbox": "<bbox>674 652 850 732</bbox>"}]
+Processing 339/500: /data/zhangjingyu/temp/test_images/test_0338.jpg
+[{"text_content": "F072", "bbox": "<bbox>171 305 342 431</bbox>"}, {"text_content": "F073", "bbox": "<bbox>364 436 693 726</bbox>"}]
+Processing 340/500: /data/zhangjingyu/temp/test_images/test_0339.jpg
+[{"text_content": "21055", "bbox": "<bbox>448 719 593 814</bbox>"}]
+Processing 341/500: /data/zhangjingyu/temp/test_images/test_0340.jpg
+[]
+Processing 342/500: /data/zhangjingyu/temp/test_images/test_0341.jpg
+[{"text_content": "K167", "bbox": "<bbox>174 620 259 682</bbox>"}, {"text_content": "K168", "bbox": "<bbox>256 673 374 754</bbox>"}, {"text_content": "K169", "bbox": "<bbox>404 790 596 914</bbox>"}]
+Processing 343/500: /data/zhangjingyu/temp/test_images/test_0342.jpg
+[{"text_content": "0-2554", "bbox": "<bbox>332 839 503 890</bbox>"}]
+Processing 344/500: /data/zhangjingyu/temp/test_images/test_0343.jpg
+[{"text_content": "C-106", "bbox": "<bbox>268 771 459 889</bbox>"}, {"text_content": "C-107", "bbox": "<bbox>556 639 650 719</bbox>"}]
+Processing 345/500: /data/zhangjingyu/temp/test_images/test_0344.jpg
+[]
+Processing 346/500: /data/zhangjingyu/temp/test_images/test_0345.jpg
+[]
+Processing 347/500: /data/zhangjingyu/temp/test_images/test_0346.jpg
+[{"text_content": "K096", "bbox": "<bbox>624 546 803 684</bbox>"}, {"text_content": "125", "bbox": "<bbox>346 842 613 999</bbox>"}]
+Processing 348/500: /data/zhangjingyu/temp/test_images/test_0347.jpg
+[{"text_content": "1-1118", "bbox": "<bbox>140 721 275 773</bbox>"}, {"text_content": "0-1119", "bbox": "<bbox>414 769 598 835</bbox>"}, {"text_content": "0-1", "bbox": "<bbox>845 849 976 908</bbox>"}]
+Processing 349/500: /data/zhangjingyu/temp/test_images/test_0348.jpg
+[{"text_content": "C", "bbox": "<bbox>446 412 503 565</bbox>"}, {"text_content": "327", "bbox": "<bbox>368 864 516 999</bbox>"}]
+Processing 350/500: /data/zhangjingyu/temp/test_images/test_0349.jpg
+[{"text_content": "11211", "bbox": "<bbox>458 578 696 756</bbox>"}]
+Processing 351/500: /data/zhangjingyu/temp/test_images/test_0350.jpg
+[]
+Processing 352/500: /data/zhangjingyu/temp/test_images/test_0351.jpg
+[{"text_content": "H063", "bbox": "<bbox>268 630 615 840</bbox>"}, {"text_content": "H064", "bbox": "<bbox>686 514 875 628</bbox>"}, {"text_content": "H065", "bbox": "<bbox>882 456 999 526</bbox>"}]
+Processing 353/500: /data/zhangjingyu/temp/test_images/test_0352.jpg
+[{"text_content": "H043", "bbox": "<bbox>364 570 610 703</bbox>"}]
+Processing 354/500: /data/zhangjingyu/temp/test_images/test_0353.jpg
+[]
+Processing 355/500: /data/zhangjingyu/temp/test_images/test_0354.jpg
+[{"text_content": "5", "bbox": "<bbox>249 159 285 330</bbox>"}, {"text_content": "5-078", "bbox": "<bbox>501 26 540 88</bbox>"}, {"text_content": "5", "bbox": "<bbox>538 409 548 438</bbox>"}, {"text_content": "5", "bbox": "<bbox>727 401 746 457</bbox>"}, {"text_content": "5", "bbox": "<bbox>847 421 860 458</bbox>"}]
+Processing 356/500: /data/zhangjingyu/temp/test_images/test_0355.jpg
+[{"text_content": "-1C133", "bbox": "<bbox>238 568 542 803</bbox>"}, {"text_content": "-1C134", "bbox": "<bbox>651 398 767 475</bbox>"}, {"text_content": "-1C135", "bbox": "<bbox>758 349 834 392</bbox>"}]
+Processing 357/500: /data/zhangjingyu/temp/test_images/test_0356.jpg
+[]
+Processing 358/500: /data/zhangjingyu/temp/test_images/test_0357.jpg
+[]
+Processing 359/500: /data/zhangjingyu/temp/test_images/test_0358.jpg
+[{"text_content": "G-149", "bbox": "<bbox>307 801 503 931</bbox>"}, {"text_content": "G-150", "bbox": "<bbox>118 718 246 801</bbox>"}, {"text_content": "6-148", "bbox": "<bbox>97 135 125 163</bbox>"}, {"text_content "B-150", "bbox": "<bbox>83 116 106 171</bbox>"}, {"text_content": "-149", "bbox": "<bbox>328 1 361 41</bbox>"}, {"text_content": "G1", "bbox": "<bbox>330 43 354 76</bbox>"}]
+Processing 360/500: /data/zhangjingyu/temp/test_images/test_0359.jpg
+[{"text_content": "A228", "bbox": "<bbox>125 800 289 928</bbox>"}, {"text_content": "A22", "bbox": "<bbox>500 613 565 659</bbox>"}]
+Processing 361/500: /data/zhangjingyu/temp/test_images/test_0360.jpg
+[{"text_content": "114", "bbox": "<bbox>352 913 436 981</bbox>"}]
+Processing 362/500: /data/zhangjingyu/temp/test_images/test_0361.jpg
+[{"text_content": "B139", "bbox": "<bbox>204 503 352 628</bbox>"}, {"text_content": "B14", "bbox": "<bbox>508 781 770 998</bbox>"}]
+Processing 363/500: /data/zhangjingyu/temp/test_images/test_0362.jpg
+[{"text_content": "A-005", "bbox": "<bbox>452 720 572 855</bbox>"}]
+Processing 364/500: /data/zhangjingyu/temp/test_images/test_0363.jpg
+[{"text_content": "258", "bbox": "<bbox>441 852 524 924</bbox>"}]
+Processing 365/500: /data/zhangjingyu/temp/test_images/test_0364.jpg
+[{"text_content": "1018", "bbox": "<bbox>141 197 188 256</bbox>"}, {"text_content": "1019", "bbox": "<bbox>398 271 430 314</bbox>"}]
+Processing 366/500: /data/zhangjingyu/temp/test_images/test_0365.jpg
+[{"text_content": "-1190", "bbox": "<bbox>471 620 698 782</bbox>"}, {"text_content": "-1191", "bbox": "<bbox>784 491 918 575</bbox>"}]
+Processing 367/500: /data/zhangjingyu/temp/test_images/test_0366.jpg
+[{"text_content": "0418", "bbox": "<bbox>44 166 103 221</bbox>"}]
+Processing 368/500: /data/zhangjingyu/temp/test_images/test_0367.jpg
+[{"text_content": "1", "bbox": "<bbox>554 388 589 409</bbox>"}, {"text_content": "2", "bbox": "<bbox>508 458 559 488</bbox>"}, {"text_content": "3", "bbox": "<bbox>381 648 463 701</bbox>"}]
+Processing 369/500: /data/zhangjingyu/temp/test_images/test_0368.jpg
+[{"text_content": "1C61", "bbox": "<bbox>683 571 906 748</bbox>"}]
+Processing 370/500: /data/zhangjingyu/temp/test_images/test_0369.jpg
+[{"text_content": "0-2307", "bbox": "<bbox>42 679 250 926</bbox>"}]
+Processing 371/500: /data/zhangjingyu/temp/test_images/test_0370.jpg
+[{"text_content": "1555", "bbox": "<bbox>102 189 153 258</bbox>"}]
+Processing 372/500: /data/zhangjingyu/temp/test_images/test_0371.jpg
+[]
+Processing 373/500: /data/zhangjingyu/temp/test_images/test_0372.jpg
+[{"text_content": "2177", "bbox": "<bbox>493 0 547 90</bbox>"}]
+Processing 374/500: /data/zhangjingyu/temp/test_images/test_0373.jpg
+[{"text_content": "16205", "bbox": "<bbox>382 753 529 984</bbox>"}]
+Processing 375/500: /data/zhangjingyu/temp/test_images/test_0374.jpg
+[]
+Processing 376/500: /data/zhangjingyu/temp/test_images/test_0375.jpg
+[{"text_content": "-1C160", "bbox": "<bbox>8 542 360 778</bbox>"}]
+Processing 377/500: /data/zhangjingyu/temp/test_images/test_0376.jpg
+[{"text_content": "R26", "bbox": "<bbox>338 758 514 893</bbox>"}, {"text_content": "25", "bbox": "<bbox>151 483 171 519</bbox>"}]
+Processing 378/500: /data/zhangjingyu/temp/test_images/test_0377.jpg
+[{"text_content": "C105", "bbox": "<bbox>343 730 534 889</bbox>"}, {"text_content": "C106", "bbox": "<bbox>582 604 678 679</bbox>"}]
+Processing 379/500: /data/zhangjingyu/temp/test_images/test_0378.jpg
+[{"text_content": "B201", "bbox": "<bbox>528 341 615 406</bbox>"}, {"text_content": "B202", "bbox": "<bbox>668 466 863 618</bbox>"}]
+Processing 380/500: /data/zhangjingyu/temp/test_images/test_0379.jpg
+[]
+Processing 381/500: /data/zhangjingyu/temp/test_images/test_0380.jpg
+[{"text_content": "A225", "bbox": "<bbox>572 901 717 959</bbox>"}]
+Processing 382/500: /data/zhangjingyu/temp/test_images/test_0381.jpg
+[{"text_content": "B1-26", "bbox": "<bbox>452 744 864 929</bbox>"}]
+Processing 383/500: /data/zhangjingyu/temp/test_images/test_0382.jpg
+[]
+Processing 384/500: /data/zhangjingyu/temp/test_images/test_0383.jpg
+[{"text_content": "2275", "bbox": "<bbox>266 713 404 796</bbox>"}]
+Processing 385/500: /data/zhangjingyu/temp/test_images/test_0384.jpg
+[]
+Processing 386/500: /data/zhangjingyu/temp/test_images/test_0385.jpg
+[]
+Processing 387/500: /data/zhangjingyu/temp/test_images/test_0386.jpg
+[{"text_content": "K022", "bbox": "<bbox>172 822 362 907</bbox>"}, {"text_content": "K023", "bbox": "<bbox>464 760 623 820</bbox>"}, {"text_content": "K024", "bbox": "<bbox>676 712 801 773</bbox>"}, {"text_content": "K1", "bbox": "<bbox>801 373 845 499</bbox>"}]
+Processing 388/500: /data/zhangjingyu/temp/test_images/test_0387.jpg
+[]
+Processing 389/500: /data/zhangjingyu/temp/test_images/test_0388.jpg
+[]
+Processing 390/500: /data/zhangjingyu/temp/test_images/test_0389.jpg
+[]
+Processing 391/500: /data/zhangjingyu/temp/test_images/test_0390.jpg
+[{"text_content": "241", "bbox": "<bbox>263 682 539 771</bbox>"}]
+Processing 392/500: /data/zhangjingyu/temp/test_images/test_0391.jpg
+[{"text_content": "F121", "bbox": "<bbox">185 479 692 861</bbox>}, {"text_content": "F", "bbox": "<bbox>754 108 789 188</bbox>}, {"text_content": "3", "bbox": "<bbox>770 196 803 245</bbox>}]
+Processing 393/500: /data/zhangjingyu/temp/test_images/test_0392.jpg
+[{"text_content": "258", "bbox": "<bbox>647 755 746 821</bbox>"}]
+Processing 394/500: /data/zhangjingyu/temp/test_images/test_0393.jpg
+[{"text_content": "13090", "bbox": "<bbox>496 698 632 760</bbox>"}]
+Processing 395/500: /data/zhangjingyu/temp/test_images/test_0394.jpg
+[{"text_content": "0-2559", "bbox": "<bbox>332 826 520 969</bbox>"}]
+Processing 396/500: /data/zhangjingyu/temp/test_images/test_0395.jpg
+[{"text_content": "C-006", "bbox": "<bbox>438 734 579 885</bbox>"}]
+Processing 397/500: /data/zhangjingyu/temp/test_images/test_0396.jpg
+[{"text_content": "K183", "bbox": "<bbox>162 875 489 999</bbox>"}, {"text_content": "K184", "bbox": "<bbox>726 692 994 848</bbox>"}]
+Processing 398/500: /data/zhangjingyu/temp/test_images/test_0397.jpg
+[{"text_content": "A-023", "bbox": "<bbox>494 696 575 791</bbox>"}]
+Processing 399/500: /data/zhangjingyu/temp/test_images/test_0398.jpg
+[]
+Processing 400/500: /data/zhangjingyu/temp/test_images/test_0399.jpg
+[]
+Processing 401/500: /data/zhangjingyu/temp/test_images/test_0400.jpg
+[{"text_content": "-1C34", "bbox": "<bbox>319 614 608 784</bbox>"}, {"text_content": "-1C35", "bbox": "<bbox>713 498 875 599</bbox>"}, {"text_content": "-1C36", "bbox": "<bbox>898 441 992 509</bbox>"}]
+Processing 402/500: /data/zhangjingyu/temp/test_images/test_0401.jpg
+[{"text_content": "0-218", "bbox": "<bbox>190 582 273 629</bbox>"}, {"text_content": "0-219", "bbox": "<bbox>347 645 476 716</bbox>"}]
+Processing 403/500: /data/zhangjingyu/temp/test_images/test_0402.jpg
+[{"text_content": "H034", "bbox": "<bbox>526 762 783 907</bbox>"}]
+Processing 404/500: /data/zhangjingyu/temp/test_images/test_0403.jpg
+[]
+Processing 405/500: /data/zhangjingyu/temp/test_images/test_0404.jpg
+[]
+Processing 406/500: /data/zhangjingyu/temp/test_images/test_0405.jpg
+[{"text_content": "3-23", "bbox": "<bbox>496 781 804 899</bbox>"}]
+Processing 407/500: /data/zhangjingyu/temp/test_images/test_0406.jpg
+[]
+Processing 408/500: /data/zhangjingyu/temp/test_images/test_0407.jpg
+[{"text_content": "0-2119", "bbox": "<bbox>790 726 999 793</bbox>"}]
+Processing 409/500: /data/zhangjingyu/temp/test_images/test_0408.jpg
+[{"text_content": "16073", "bbox": "<bbox>330 630 682 699</bbox>"}]
+Processing 410/500: /data/zhangjingyu/temp/test_images/test_0409.jpg
+[{"text_content": "1C271", "bbox": "<bbox>64 579 390 820</bbox>"}]
+Processing 411/500: /data/zhangjingyu/temp/test_images/test_0410.jpg
+[{"text_content": "253", "bbox": "<bbox>526 788 622 877</bbox>"}]
+Processing 412/500: /data/zhangjingyu/temp/test_images/test_0411.jpg
+[]
+Processing 413/500: /data/zhangjingyu/temp/test_images/test_0412.jpg
+[{"text_content": "163", "bbox": "<bbox>624 562 701 619</bbox>"}]
+Processing 414/500: /data/zhangjingyu/temp/test_images/test_0413.jpg
+[{"text_content": "-2173", "bbox": "<bbox>332 813 514 920</bbox>"}]
+Processing 415/500: /data/zhangjingyu/temp/test_images/test_0414.jpg
+[]
+Processing 416/500: /data/zhangjingyu/temp/test_images/test_0415.jpg
+[{"text_content": "130", "bbox": "<bbox>885 654 996 772</bbox>"}]
+Processing 417/500: /data/zhangjingyu/temp/test_images/test_0416.jpg
+[{"text_content": "-2897", "bbox": "<bbox>96 640 250 707</bbox>"}, {"text_content": "-2898", "bbox": "<bbox>306 700 510 802</bbox>"}]
+Processing 418/500: /data/zhangjingyu/temp/test_images/test_0417.jpg
+[{"text_content": "-2932", "bbox": "<bbox>496 741 658 846</bbox>"}, {"text_content": "-2933", "bbox": "<bbox>712 651 820 718</bbox>"}]
+Processing 419/500: /data/zhangjingyu/temp/test_images/test_0418.jpg
+[{"text_content": "0-1553", "bbox": "<bbox>10 645 86 750</bbox>"}, {"text_content": "0-15", "bbox": "<bbox>106 850 244 999</bbox>"}]
+Processing 420/500: /data/zhangjingyu/temp/test_images/test_0419.jpg
+[{"text_content": "1289", "bbox": "<bbox>652 601 892 781</bbox>"}]
+Processing 421/500: /data/zhangjingyu/temp/test_images/test_0420.jpg
+[{"text_content": "C-033M", "bbox": "<bbox>358 635 624 833</bbox>"}]
+Processing 422/500: /data/zhangjingyu/temp/test_images/test_0421.jpg
+[{"text_content": "-2514", "bbox": "<bbox>619 752 774 842</bbox>"}]
+Processing 423/500: /data/zhangjingyu/temp/test_images/test_0422.jpg
+[{"text_content": "A054", "bbox": "<bbox>243 655 506 779</bbox>"}, {"text_content": "055", "bbox": "<bbox>0 590 90 659</bbox>"}]
+Processing 424/500: /data/zhangjingyu/temp/test_images/test_0423.jpg
+[{"text_content": "1916", "bbox": "<bbox>82 668 356 840</bbox>"}]
+Processing 425/500: /data/zhangjingyu/temp/test_images/test_0424.jpg
+[]
+Processing 426/500: /data/zhangjingyu/temp/test_images/test_0425.jpg
+[{"text_content": "6", "bbox": "<bbox>285 261 312 346</bbox>"}, {"text_content": "6-62", "bbox": "<bbox>335 669 501 789</bbox>"}]
+Processing 427/500: /data/zhangjingyu/temp/test_images/test_0426.jpg
+[{"text_content": "1-120", "bbox": "<bbox>428 685 659 741</bbox>"}, {"text_content": "9", "bbox": "<bbox>0 600 30 676</bbox>"}]
+Processing 428/500: /data/zhangjingyu/temp/test_images/test_0427.jpg
+[]
+Processing 429/500: /data/zhangjingyu/temp/test_images/test_0428.jpg
+[{"text_content": "B243", "bbox": "<bbox>302 650 478 782</bbox>"}]
+Processing 430/500: /data/zhangjingyu/temp/test_images/test_0429.jpg
+[{"text_content": "-2928", "bbox": "<bbox>296 739 421 830</bbox>"}, {"text_content": "2930", "bbox": "<bbox>487 626 557 659</bbox>"}]
+Processing 431/500: /data/zhangjingyu/temp/test_images/test_0430.jpg
+[{"text_content": "0-120", "bbox": "<bbox>695 734 822 823</bbox>"}, {"text_content": "0-121", "bbox": "<bbox>882 661 972 720</bbox>"}]
+Processing 432/500: /data/zhangjingyu/temp/test_images/test_0431.jpg
+[{"text_content": "H108", "bbox": "<bbox>393 813 582 999</bbox>"}, {"text_content": "H109", "bbox": "<bbox>626 644 715 745</bbox>"}, {"text_content": "H", "bbox": "<bbox>416 271 459 378</bbox>"}, {"text_content": "2", "bbox": "<bbox>431 396 458 459</bbox>"}]
+Processing 433/500: /data/zhangjingyu/temp/test_images/test_0432.jpg
+[{"text_content": "1588", "bbox": "<bbox>520 561 755 806</bbox>"}, {"text_content": "1587", "bbox": "<bbox>348 365 450 439</bbox>"}]
+Processing 434/500: /data/zhangjingyu/temp/test_images/test_0433.jpg
+[{"text_content": "1856", "bbox": "<bbox>182 629 423 808</bbox>"}]
+Processing 435/500: /data/zhangjingyu/temp/test_images/test_0434.jpg
+[{"text_content": "017", "bbox": "<bbox>25 461 656 563</bbox>"}]
+Processing 436/500: /data/zhangjingyu/temp/test_images/test_0435.jpg
+[]
+Processing 437/500: /data/zhangjingyu/temp/test_images/test_0436.jpg
+[{"text_content": "2134", "bbox": "<bbox>547 793 696 875</bbox>"}, {"text_content": "2135", "bbox": "<bbox>850 697 953 762</bbox>"}, {"text_content": "2134", "bbox": "<bbox>615 21 670 65</bbox>"}, {"text_content": "2135", "bbox": "<bbox>881 74 924 134</bbox>"}]
+Processing 438/500: /data/zhangjingyu/temp/test_images/test_0437.jpg
+[]
+Processing 439/500: /data/zhangjingyu/temp/test_images/test_0438.jpg
+[]
+Processing 440/500: /data/zhangjingyu/temp/test_images/test_0439.jpg
+[{"text_content": "13057", "bbox": "<bbox>400 468 663 601</bbox>"}]
+Processing 441/500: /data/zhangjingyu/temp/test_images/test_0440.jpg
+[{"text_content": "16", "bbox": "<bbox": "403 705 625 822</bbox>"}, {"text_content": "1", "bbox": "<bbox":>826 800 994 922</bbox>"}]
+Processing 442/500: /data/zhangjingyu/temp/test_images/test_0441.jpg
+[{"text_content": "0-255", "bbox": "<bbox>283 850 439 959</bbox>"}]
+Processing 443/500: /data/zhangjingyu/temp/test_images/test_0442.jpg
+[{"text_content": "2-61", "bbox": "<bbox>550 643 711 728</bbox>"}, {"text_content": "2", "bbox": "<bbox>261 78 284 126</bbox>"}]
+Processing 444/500: /data/zhangjingyu/temp/test_images/test_0443.jpg
+[{"text_content": "24011", "bbox": "<bbox>443 487 706 626</bbox>"}]
+Processing 445/500: /data/zhangjingyu/temp/test_images/test_0444.jpg
+[{"text_content": "031A", "bbox": "<bbox>477 763 728 999</bbox>"}, {"text_content": "C-05", "bbox": "<bbox>741 601 887 723</bbox>"}]
+Processing 446/500: /data/zhangjingyu/temp/test_images/test_0445.jpg
+[{"text_content": "1350", "bbox": "<bbox>14 768 159 875</bbox>"}, {"text_content": "U-1351", "bbox": "<bbox>334 600 445 673</bbox>"}]
+Processing 447/500: /data/zhangjingyu/temp/test_images/test_0446.jpg
+[{"text_content": "1731", "bbox": "<bbox>438 678 699 856</bbox>"}]
+Processing 448/500: /data/zhangjingyu/temp/test_images/test_0447.jpg
+[{"text_content": "0-2005", "bbox": "<bbox>204 829 578 999</bbox>"}, {"text_content": "0-2006", "bbox": "<bbox>705 680 891 789</bbox>"}]
+Processing 449/500: /data/zhangjingyu/temp/test_images/test_0448.jpg
+[{"text_content": "0759", "bbox": "<bbox>502 616 597 665</bbox>"}, {"text_content": "758", "bbox": "<bbox>290 682 400 752</bbox>"}]
+Processing 450/500: /data/zhangjingyu/temp/test_images/test_0449.jpg
+[{"text_content": "0-1194", "bbox": "<bbox>220 690 412 810</bbox>"}, {"text_content": "0-1193", "bbox": "<bbox>497 606 597 672</bbox>"}, {"text_content": "0-1001", "bbox": "<bbox>720 598 839 650</bbox>"}]
+Processing 451/500: /data/zhangjingyu/temp/test_images/test_0450.jpg
+[{"text_content": "0-272", "bbox": "<bbox>304 854 443 999</bbox>"}]
+Processing 452/500: /data/zhangjingyu/temp/test_images/test_0451.jpg
+[{"text_content": "-119", "bbox": "<bbox>85 646 260 779</bbox>"}]
+Processing 453/500: /data/zhangjingyu/temp/test_images/test_0452.jpg
+[]
+Processing 454/500: /data/zhangjingyu/temp/test_images/test_0453.jpg
+[{"text_content": "-2251", "bbox": "<bbox>227 711 389 825</bbox>"}, {"text_content": "-2250", "bbox": "<bbox>424 629 517 696</bbox>"}]
+Processing 455/500: /data/zhangjingyu/temp/test_images/test_0454.jpg
+[{"text_content": "-1860", "bbox": "<bbox>142 684 392 853</bbox>"}]
+Processing 456/500: /data/zhangjingyu/temp/test_images/test_0455.jpg
+[{"text_content": "-1C46", "bbox": "<bbox>643 631 870 802</bbox>"}, {"text_content": "-1C47", "bbox": "<bbox>913 493 994 585</bbox>"}]
+Processing 457/500: /data/zhangjingyu/temp/test_images/test_0456.jpg
+[{"text_content": "A198", "bbox": "<bbox>313 855 383 922</bbox>"}]
+Processing 458/500: /data/zhangjingyu/temp/test_images/test_0457.jpg
+[{"text_content": "427", "bbox": "<bbox>320 498 494 590</bbox>"}, {"text_content": "17B", "bbox": "<bbox>546 136 564 165</bbox>"}]
+Processing 459/500: /data/zhangjingyu/temp/test_images/test_0458.jpg
+[{"text_content": "0-1087", "bbox": "<bbox>18 613 167 661</bbox>"}, {"text_content": "0-1088", "bbox": "<bbox>556 661 744 712</bbox>"}]
+Processing 460/500: /data/zhangjingyu/temp/test_images/test_0459.jpg
+[{"text_content": "B186", "bbox": "<bbox>548 632 776 755</bbox>"}]
+Processing 461/500: /data/zhangjingyu/temp/test_images/test_0460.jpg
+[{"text_content": "C-046", "bbox": "<bbox>410 829 518 922</bbox>"}]
+Processing 462/500: /data/zhangjingyu/temp/test_images/test_0461.jpg
+[{"text_content": "6", "bbox": "<bbox>504 56 579 371</bbox>"}, {"text_content": "6-4", "bbox": "<bbox>233 728 414 848</bbox>"}]
+Processing 463/500: /data/zhangjingyu/temp/test_images/test_0462.jpg
+[]
+Processing 464/500: /data/zhangjingyu/temp/test_images/test_0463.jpg
+[{"text_content": "G115", "bbox": "<bbox>294 474 616 748</bbox>}]
+Processing 465/500: /data/zhangjingyu/temp/test_images/test_0464.jpg
+[{"text_content": "24026", "bbox": "<bbox>311 665 668 732</bbox>"}]
+Processing 466/500: /data/zhangjingyu/temp/test_images/test_0465.jpg
+[{"text_content": "13090", "bbox": "<bbox>372 609 616 665</bbox>"}]
+Processing 467/500: /data/zhangjingyu/temp/test_images/test_0466.jpg
+[{"text_content": "H020", "bbox": "<bbox>350 750 613 915</bbox>"}]
+Processing 468/500: /data/zhangjingyu/temp/test_images/test_0467.jpg
+[]
+Processing 469/500: /data/zhangjingyu/temp/test_images/test_0468.jpg
+[]
+Processing 470/500: /data/zhangjingyu/temp/test_images/test_0469.jpg
+[]
+Processing 471/500: /data/zhangjingyu/temp/test_images/test_0470.jpg
+[{"text_content": "1C249", "bbox": "<bbox>163 668 476 868</bbox>"}]
+Processing 472/500: /data/zhangjingyu/temp/test_images/test_0471.jpg
+[{"text_content": "A022", "bbox": "<bbox>353 813 457 959</bbox>"}]
+Processing 473/500: /data/zhangjingyu/temp/test_images/test_0472.jpg
+[{"text_content": "G018", "bbox": "<bbox>246 702 492 998</bbox>"}, {"text_content": "G019", "bbox": "<bbox>395 499 544 724</bbox>"}, {"text_content": "G020", "bbox": "<bbox>469 498 535 573</bbox>"}]
+Processing 474/500: /data/zhangjingyu/temp/test_images/test_0473.jpg
+[{"text_content": "H184", "bbox": "<bbox>408 603 675 843</bbox>"}, {"text_content": "H185", "bbox": "<bbox>720 446 856 557</bbox>"}]
+Processing 475/500: /data/zhangjingyu/temp/test_images/test_0474.jpg
+[]
+Processing 476/500: /data/zhangjingyu/temp/test_images/test_0475.jpg
+[{"text_content": "A196", "bbox": "<bbox>136 838 198 925</bbox>"}]
+Processing 477/500: /data/zhangjingyu/temp/test_images/test_0476.jpg
+[{"text_content": "1452", "bbox": "<bbox">274 618 784 732</bbox>}]
+Processing 478/500: /data/zhangjingyu/temp/test_images/test_0477.jpg
+[{"text_content": "-1585", "bbox": "<bbox": "492 542 586 620</bbox>"}, {"text_content": "-1586", "bbox": "<bbox": "588 675 763 850</bbox>"}]
+Processing 479/500: /data/zhangjingyu/temp/test_images/test_0478.jpg
+[{"text_content": "2181", "bbox": "<bbox>636 734 797 832</bbox>"}]
+Processing 480/500: /data/zhangjingyu/temp/test_images/test_0479.jpg
+[{"text_content": "B188", "bbox": "<bbox>244 520 448 640</bbox>"}]
+Processing 481/500: /data/zhangjingyu/temp/test_images/test_0480.jpg
+[{"text_content": "-1C158", "bbox": "<bbox>332 403 479 509</bbox>"}, {"text_content": "-1C159", "bbox": "<bbox>512 541 812 789</bbox>"}]
+Processing 482/500: /data/zhangjingyu/temp/test_images/test_0481.jpg
+[]
+Processing 483/500: /data/zhangjingyu/temp/test_images/test_0482.jpg
+[]
+Processing 484/500: /data/zhangjingyu/temp/test_images/test_0483.jpg
+[{"text_content": "F103", "bbox": "<bbox>282 710 583 998</bbox>"}, {"text_content": "F104", "bbox": "<bbox>637 551 802 676</bbox>"}]
+Processing 485/500: /data/zhangjingyu/temp/test_images/test_0484.jpg
+[]
+Processing 486/500: /data/zhangjingyu/temp/test_images/test_0485.jpg
+[{"text_content": "29014", "bbox": "<bbox>652 689 868 829</bbox>"}]
+Processing 487/500: /data/zhangjingyu/temp/test_images/test_0486.jpg
+[{"text_content": "-1796", "bbox": "<bbox>242 534 525 659</bbox>"}, {"text_content": "-1795", "bbox": "<bbox>640 491 782 568</bbox>"}]
+Processing 488/500: /data/zhangjingyu/temp/test_images/test_0487.jpg
+[{"text_content": "0-2258", "bbox": "<bbox>386 730 590 833</bbox>"}, {"text_content": "0-22", "bbox": "<bbox>792 881 998 999</bbox>"}]
+Processing 489/500: /data/zhangjingyu/temp/test_images/test_0488.jpg
+[{"text_content": "B178", "bbox": "<bbox>216 682 485 955</bbox>"}]
+Processing 490/500: /data/zhangjingyu/temp/test_images/test_0489.jpg
+[{"text_content": "357", "bbox": "<bbox>164 691 415 809</bbox>"}]
+Processing 491/500: /data/zhangjingyu/temp/test_images/test_0490.jpg
+[{"text_content": "2158", "bbox": "<bbox>344 672 586 759</bbox>"}]
+Processing 492/500: /data/zhangjingyu/temp/test_images/test_0491.jpg
+[{"text_content": "C-114", "bbox": "<bbox>468 552 800 742</bbox>"}]
+Processing 493/500: /data/zhangjingyu/temp/test_images/test_0492.jpg
+[{"text_content": "2-52", "bbox": "<bbox>663 783 733 868</bbox>"}, {"text_content": "2", "bbox": "<bbox>643 476 659 520</bbox>"}]
+Processing 494/500: /data/zhangjingyu/temp/test_images/test_0493.jpg
+[{"text_content": "H20", "bbox": "<bbox>223 646 538 755</bbox>"}]
+Processing 495/500: /data/zhangjingyu/temp/test_images/test_0494.jpg
+[{"text_content": "B161", "bbox": "<bbox>172 513 274 586</bbox>"}, {"text_content": "B162", "bbox": "<bbox>357 630 535 761</bbox>"}]
+Processing 496/500: /data/zhangjingyu/temp/test_images/test_0495.jpg
+[{"text_content": "13003", "bbox": "<bbox>328 590 548 643</bbox>"}]
+Processing 497/500: /data/zhangjingyu/temp/test_images/test_0496.jpg
+[{"text_content": "168", "bbox": "<bbox>113 630 355 826</bbox>"}]
+Processing 498/500: /data/zhangjingyu/temp/test_images/test_0497.jpg
+[{"text_content": "183", "bbox": "<bbox>781 793 913 926</bbox>"}]
+Processing 499/500: /data/zhangjingyu/temp/test_images/test_0498.jpg
+[{"text_content": "2A0-2157", "bbox": "<bbox>249 802 518 922</bbox>"}, {"text_content": "D-2158", "bbox": "<bbox>2 706 141 788</bbox>"}]
+Processing 500/500: /data/zhangjingyu/temp/test_images/test_0499.jpg
+[]
+
+Predictions saved to predictions_doubao.json
+
+============================================================
+评估指标汇总
+============================================================
+
+【主指标】基于最大框的图片级准确率: 0.7480 (374/500)
+
+【辅助指标】
+  文本识别:
+    Precision: 0.6343 (411/648)
+    Recall: 0.7514 (411/547)
+    F1: 0.6879
+    平均编辑距离: 0.0000
+  检测定位 (IoU≥0.5):
+    Precision: 0.7222 (468/648)
+    Recall: 0.8556 (468/547)
+    F1: 0.7833
+    平均IoU: 0.8130
+  端到端 (文本匹配 + IoU≥0.5):
+    Precision: 0.5772 (374/648)
+    Recall: 0.6837 (374/547)
+    F1: 0.6259
+    整图精确匹配率: 0.5640 (282/500)
+
+总处理图片数: 500, 错误数: 0
+============================================================

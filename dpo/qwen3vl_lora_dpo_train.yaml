@@ -1,0 +1,46 @@
+### model
+model_name_or_path: /root/autodl-tmp/.autodl/saves/qwen3-vl-sft-merged
+image_max_pixels: 600000
+video_max_pixels: 16384
+trust_remote_code: true
+
+### method
+stage: dpo
+do_train: true
+finetuning_type: lora
+lora_rank: 16
+lora_target: all
+pref_ftx: 0.2
+# dpo_label_smoothing: 0.01
+pref_beta: 0.1
+pref_loss: kto_pair # choices: [sigmoid (dpo), orpo, simpo]
+
+### dataset
+dataset_dir: /root/autodl-tmp/.autodl/data
+dataset: train_parking_dpo
+template: qwen3_vl_nothink
+cutoff_len: 20480
+preprocessing_num_workers: 32
+dataloader_num_workers: 8
+
+### output
+output_dir: /root/autodl-tmp/.autodl/saves/qwen3-vl-2b-parking-grounding-16r8b1g1-4lr1e_freezemmp_kto_ftx0_2
+logging_steps: 10
+save_steps: 300
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: none  # choices: [none, wandb, tensorboard, swanlab, mlflow]
+
+### train
+per_device_train_batch_size: 8
+gradient_accumulation_steps: 1
+learning_rate: 5.0e-6
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+freeze_vision_tower: false
+freeze_multi_modal_projector: false
